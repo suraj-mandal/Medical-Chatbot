@@ -1,0 +1,15 @@
+
+Most people who contract hepatitis C (hep C) have no symptoms. However, those 
+that do have symptoms may experience:
+
+
+Hepatitis means inflammation of the liver. Hepatitis C is one of several viruses that can cause viral hepatitis. It is unrelated to the other common hepatitis viruses (for example, hepatitis A or hepatitis B). Hepatitis C is a member of the Flaviviridae family of viruses. Other members of this family of viruses include those that cause yellow fever and dengue fever.
+There are at least six different genotypes (strains) of the virus which have different genetic profiles (genotypes 1 to 6). In the U. S., genotype 1 is the most common strain of hepatitis C. Even within a single genotype there may be some variations (genotype 1a and 1b, for example). Genotyping is used to guide treatment because some viral genotypes respond better to some therapies than to others.
+Like human immunodeficiency virus (HIV), hepatitis C multiplies very fast and attains very high levels in the body. The genes that make the surface proteins of the virus also mutate (change) quickly, and thousands of genetic variations of the virus ("quasi-species") are produced daily. It is impossible for the body to keep up with making anti-HCV antibodies against all of the quasi-species circulating at one time. It has not been possible yet to develop an effective vaccine because the vaccine must protect against all genotypes.
+Hepatitis C infection in the liver triggers the immune system, which leads to inflammation. Very few people experience typical hepatitis symptoms such as dark urine or clay colored stools in acute or early infection. Chronic hepatitis C usually causes no symptoms until very late in the disease, and hepatitis C has been referred to by sufferers as the "sleeping dragon." Over several years or decades, chronic inflammation may cause death of liver cells and scarring ("fibrosis"). Extensive scarring in the liver is called cirrhosis. This progressively impairs vital functions of the liver. Cirrhotic livers are more prone to liver cancer (hepatoma). Drinking alcohol speeds up liver damage with hepatitis C. Concurrent HIV infection also accelerates progression to cirrhosis.
+fatigue,
+loss of appetite,
+muscle and joint pains.
+nausea,
+abdominal pain, 
+vomiting...

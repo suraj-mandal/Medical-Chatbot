@@ -1,0 +1,10 @@
+
+
+The person's individual history (especially the presence of potential risk factors) and physical examination may provide a physician with enough suspicious information that the physician will consider throat cancer as a possible diagnosis. Consequently, the physician may strongly suggest doing additional tests to confirm or exclude the diagnosis of throat cancer. Although imaging tests such as CT, MRI, PET scan, and others like chest X-rays, laryngoscopy, and barium swallows provide very useful information about extent and location of the cancer, the definitive diagnosis of throat cancer is made by biopsy of the tumor. Biopsy may be done by surgical incision in the neck, fine needle aspiration of the tumor, or by an endoscopic biopsy.
+
+
+Throat cancer staging is determined by a TNM staging system. The system was developed by the American Joint Committee on Cancer (AJCC) and is presented below.
+All of this information is combined to arrive at a disease stage. After stage 0 (which is carcinoma in situ or cancer that has not grown beyond the cells lining the throat), stages are labeled using Roman numerals from I through IV (that is, 1 through 4). The smaller the number, the less the cancer has spread. A higher number, for example stage IV, indicates a more serious stage of the disease.
+T stands for tumor (how far it has spread within the larynx or pharynx and to nearby tissues).
+N describes whether the cancer has spread to nearby lymph nodes.
+M stands for metastasis (spread of the cancer) to distant organs.

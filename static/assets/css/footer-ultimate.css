@@ -1,0 +1,116 @@
+.despre-noi {
+  font-size:90%;
+  padding-bottom:4px;
+}
+
+.fa.fa-phone.despre-noi {
+  font-size:15px;
+  color:rgb(54,110,255);
+}
+
+.fa.fa-envelope.despre-noi {
+  font-size:15px;
+  color:rgb(54,110,255);
+}
+
+.fa.fa-home.despre-noi {
+  font-size:18px;
+  color:rgb(54,110,255);
+}
+
+.col-sm-4.col-md-3.item-srv {
+  border-right:1px solid;
+  border-color:rgba(129,129,129,0.3);
+}
+
+.col-lg-3.item.social {
+  border-right:1px solid;
+  border-color:rgba(129,129,129,0.3);
+}
+
+.text-center.footer-logo-text {
+  font-size:11px;
+  font-family:'Raleway';
+}
+
+.footer-logo {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:110px;
+  height:50px;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width:1200px;
+    overflow:visible;
+  }
+}
+
+.container {
+  padding-right:15px;
+  padding-left:15px;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+.row {
+  margin-right:-15px;
+  margin-left:-15px;
+}
+
+.footer-clean {
+  padding:20px 0;
+  background-color:#ede8e8;
+  color:#4b4c4d;
+}
+
+.footer-clean h3 {
+  margin-top:0;
+  margin-bottom:12px;
+  font-weight:bold;
+  font-size:16px;
+  text-align:left;
+}
+
+.footer-clean ul {
+  padding:0;
+  list-style:none;
+  line-height:1.6;
+  font-size:large;
+  text-align:left;
+  margin-bottom:0;
+}
+
+.footer-clean ul a {
+  color:inherit;
+  text-decoration:none;
+  opacity:0.8;
+}
+
+.footer-clean ul a:hover {
+  opacity:1;
+}
+
+.footer-clean .item.social {
+  text-align:right;
+}
+
+@media (max-width:767px) {
+  .footer-clean .item {
+    text-align:center;
+    padding-bottom:20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-clean .item.social {
+    text-align:center;
+  }
+}
+
+a:active {
+  background:red;
+}
+

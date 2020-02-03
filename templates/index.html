@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedicalChatbot</title>
+    {#    {% load static %}#}
+    <link rel="stylesheet" href="../static/assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+          integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <link rel="stylesheet" href="../static/assets/css/mainpage.css">
+</head>
+
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light p-3 navbar-custom">
+    <a class="navbar-brand pl-3 brand-font font-weight-bold" href="#">Medical Chatbot</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+            aria-controls="navbarNavDropdown"
+            aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+        <ul class="navbar-nav ">
+            <li class="nav-item active nav-item-font">
+                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item pr-3 nav-item-font">
+                <a class="nav-link" href="#">Features</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+<header class="jumbotron jumbotron-fluid header-height header-bg header-color">
+    <div class="container header-padding">
+        <h1 class="title">Disease Prediction at its best!</h1>
+        <p class="lead pt-2 sub-title">You tell symptoms.. We predict diseases!!</p>
+        <div class="d-flex pt-3">
+            <button type="button" class="btn-general-style btn-f-style">Get Started</button>
+            <button type="button" class="ml-4 btn-general-style btn-s-style">More</button>
+        </div>
+    </div>
+</header>
+<section class="container">
+    <div class="custom-m-top">
+        <h1 class="search-banner">Enter your symptoms here</h1>
+    </div>
+    <div class="row justify-content-center search-area mb-5">
+        <div class="col-12">
+            <form class="card card-custom card-sm" action="{{ url_for('home') }}" method="get">
+                <div class="card-body row no-gutters align-items-center">
+                    <div class="col-auto">
+                        <i class="fas fa-search"></i>
+                    </div>
+                    <!--end of col-->
+                    <div class="col">
+                        <input class="form-control form-control-lg form-control-borderless" type="search"
+                               placeholder="Enter symptoms here..." name="user-symptoms">
+                    </div>
+                    <!--end of col-->
+                    <div class="col-auto">
+                        <button class="search-btn-style" type="submit">ADD</button>
+                    </div>
+                    <!--end of col-->
+                </div>
+            </form>
+        </div>
+        <!--end of col-->
+    </div>
+</section>
+<main class="container-fluid main-content">
+    {#    {% if  %}#}
+    {% if symptoms %}
+        <div class="row">
+        <div class="col-6">
+            <div class="symptom-section">
+                <h1 style="text-align: center;">Symptoms</h1>
+                {% for symptom in symptoms %}
+                <div class="card symptom-card-design  shadow">
+                    <div class="d-flex">
+                        <h3 class="mt-1">{{ symptom | lower }}</h3>
+                        <div class="mr-auto">
+
+                        </div>
+                        <form action="" method="get">
+                            <input type="hidden" value="{{ symptom }}" name="delete-symptom">
+                            <button class="btn" type="submit"><i class="fas fa-trash h5 icon-styling"></i></button>
+                        </form>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    {% else %}
+        <div class="content-banner">
+            <h1>Your results wait here</h1>
+            <p>Please enter at least <strong>5</strong> symptoms so that we can predict your disease better</p>
+        </div>
+    {% endif %}
+    <div class="col-6">
+        <div class="symptom-section">
+            <h1 style="text-align: center;">Diseases Predicted</h1>
+            <div class="no-disease">
+                <p style="text-align: center;">All the predicted diseases will appear here</p>
+            </div>
+            <div class="card disease-card-design shadow">
+                <div class="d-flex">
+                    <h3 class="mt-1">Alcohol Obsession</h3>
+                </div>
+            </div>
+            <div class="card disease-card-design shadow">
+                <div class="d-flex">
+                    <h3 class="mt-1">Migraine</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+</main>
+<footer class="footer-custom-style container-fluid">
+    <div class="footer-content">
+        <p>Developed by Sharob Sinha</p>
+    </div>
+</footer>
+{#<div id="promo">#}
+{#    <div class="jumbotron">#}
+{#        <h1><strong>What are your main symptoms ?</strong><br></h1>#}
+{#        <p><br><strong>Symptom Checker :&nbsp;</strong>Identify possible conditions related to your symptoms.<br></p>#}
+{#        <p></p>#}
+{#        <form class="search-form" action="{{ url_for('home') }}" method="get">#}
+{#            <div class="input-group">#}
+{#                <div class="input-group-prepend"><span class="input-group-text"><i class="fa fa-search"></i></span>#}
+{#                </div>#}
+{#                <input class="form-control" type="text" placeholder="Enter your probable symptoms.."#}
+{#                       name="user-symptoms">#}
+{#                <div class="input-group-append">#}
+{#                    <button class="btn btn-light" type="submit">ADD</button>#}
+{#                </div>#}
+{#            </div>#}
+{#        </form>#}
+{#        <div class="row">#}
+{#            <div class="symptoms-container col-6">#}
+{#                {% if symptoms %}#}
+{#                    <ul class="list-group">#}
+{#                        {% for symptom in symptoms %}#}
+{#                            <div class="d-flex" style="width: 100%">#}
+{#                                <li class="list-group-item" style="word-wrap: break-word; max-width: 100%">#}
+{#                                    <span>{{ symptom | lower }}</span>#}
+{#                                </li>#}
+{#                                <form method="get">#}
+{#                                    <input type="hidden" value="{{ symptom }}" name="delete-symptom">#}
+{#                                    <button type="submit"><i class="fa fa-trash" aria-hidden="true"></i></button>#}
+{#                                </form>#}
+{#                            </div>#}
+{#                        {% endfor %}#}
+{#                    </ul>#}
+{#                {% elif predicted_diseases %}#}
+{#                    <p>Here are your predicted results.. Enjoy</p>#}
+{#                {% else %}#}
+{#                    <p>Search for symptoms for processing the data</p>#}
+{#                {% endif %}#}
+{#            </div>#}
+{#            <div class="diseases-container col-md-6">#}
+{# this will print out all the symptoms that are processed by the backend #}
+{#                {% if list_underflow %}#}
+{#                    <p>{{ list_underflow }}</p>#}
+{#                {% elif predicted_diseases %}#}
+{#                    <ul class="list-group" style="max-width: 70% !important; margin: 0 auto">#}
+{#                        {% for disease in predicted_diseases %}#}
+{#                            <li class="list-group-item"><span>{{ disease }}</span></li>#}
+{#                        {% endfor %}#}
+{#                    </ul>#}
+{#                {% else %}#}
+{#                    <p>Once you have searched for symptoms click here and see the magic unfold!!</p>#}
+{#                    <small><em>More the symptoms you enter more are the chances of correct prediction!!</em></small>#}
+{#                {% endif %}#}
+{#            </div>#}
+{#            <br>#}
+{#            <br>#}
+{#            <div class="col text-center">#}
+{#                <form method="post">#}
+{#                {% csrf_token %}#}
+{#                    <input type="hidden" name="process-symptoms">#}
+{#                    <button id="demo" type="submit" class="btn btn-default">Search</button>#}
+{#                </form>#}
+{#            </div>#}
+{#        </div>#}
+{#    </div>#}
+{#</div>#}
+{#<div class="container-fluid" style="background: black">#}
+{#    <div id="footer">#}
+{#        <footer id="footer">#}
+{##}
+{#            <div style="background: black; text-align: center; margin: 0; padding:30px; width: 100%;">#}
+{#                <p style="color:grey; font-family: raleway, sans-serif">Copyright (c) 2019 MedicalChatbot.in</p>#}
+{#            </div>#}
+{#        </footer>#}
+{#    </div>#}
+{#</div>#}
+<script src="../static/assets/js/jquery.min.js"></script>
+<script src="../static/assets/bootstrap/js/bootstrap.min.js"></script>
+</body>
+
+</html>

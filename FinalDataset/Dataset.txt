@@ -1,0 +1,550 @@
+alcohol abuse,alcohol abuse,blackout, dizziness, shakiness, craving, or sweating,aggression, agitation, compulsive behaviour, self-destructive behaviour, lack of restraint,anxiety, euphoria, general discontent, guilt,loneliness, nausea,vomiting,delirium ,fear,physical substance dependence, problems with coordination, slurred speech or tremor
+keratitis,keratitis,Pain in the eyes,vision disorder, blurred vision, or sensitivity to light,Eye Redness, feeling of something in eye, or watery eyes
+infectious mononucleosis,Pain can occur while swallowing,fatigue, fever, chills, malaise, or body ache, sore throat, swollen lymph nodes, swollen tonsils, headache, or nausea
+subconjunctival hemorrhage,subconjunctival hemorrhage,red eye redness
+fungal arthritis,pain, heat, swelling, warmth, redness,loss of range of motion of the affected joint
+scarlet fever scarlatina,red rashes, peeling, roughness, red spots, or red lines in skin folds,fever, flushing,malaise, sore throat, circumoral pallor, enlarged neck lymph nodes, nausea, swollen and bumpy tongue that's red, or swollen tonsils
+dissociative identity disorder,borderline personality disorder,narcissistic personality disorder,posttraumatic stress disorder,dissociative identity disorder,schizophrenia,bipolar disorder,antisocial personality disorder,
+ingrown hair,ingrown hair,itch,tenderness,pink bumps on the skin
+osteoarthritis,osteoarthritis, pain in the joints, hands, hip, knee, lower back, neck,Pain  can be severe in the joints,stiffness, crackles, swelling, or tenderness,bump on the finger or bony outgrowth in fingers or toes,joint deformity or limping
+bocavirus infection,ARTI especially in infants and children,Cough,Wheezing,Fever,Cyanosis (bluish or grayish tint to skin due to lack of oxygen),Rhinorrhea (runny nose).Diarrhea,Vomiting
+teen depression,depression,suicide,Apathy,Complaints of pains, including headaches, stomachaches, low back pain, or fatigue,Difficulty concentrating,Difficulty making decisions
+Excessive or inappropriate guilt, forgetting obligations, being late for classes, skipping school,Loss of interest in food or compulsive overeating that results in rapid weight loss or gain,Memory loss,Preoccupation with death and dying
+Rebellious behavior,Sadness, anxiety, or a feeling of hopelessness,Staying awake at night and sleeping during the day,Sudden drop in grades,Use of alcohol or drugs and promiscuous sexual activity,Withdrawal from friends
+coxsackie virus,initially fever, a poor appetite, and respiratory illness, including sore throat, cough, and malaise
+staph infection,Pain in the abdomen or skin,blister, boil, impetigo, rashes, or redness,diarrhoea, nausea, or vomiting, chills or fever, abscess, pus, or swelling
+dry eyes,Pain in the eyes,dryness in eyes, eye discomfort, feeling of something in eye, or redness,sensitivity to light
+salivary gland cancer,cancer,salivary gland cancer,A lump or swelling on or near your jaw or in your neck or mouth,Numbness in part of your face,Muscle weakness on one side of your face,Persistent pain in the area of a salivary gland,Difficulty swallowing,Trouble opening your mouth widely
+malaria,a sensation of cold with shivering,fever, headaches, and vomiting,seizures sometimes occur in younger people with the disease,sweats, followed by a return to normal temperature, with tiredness
+gallbladder cancer,Abdominal pain, particularly in the upper right portion of the abdomen,Abdominal bloating,Fever,Losing weight without trying,Nausea,Yellowing of the skin and whites of the eyes (jaundice)
+compartment syndrome,Aching, burning or cramping,Tightness in the affected limb,Numbness or tingling in the affected limb,Weakness of the affected limb,Foot drop, in severe cases, if legs are affected
+bunions,A bulging bump,Swelling, redness or soreness around your big toe joint,Corns or calluses ,Persistent pain
+hamstring injury,hamstring injury,spasm, tightness, and tenderness, blue swellingness
+chickenpox,blister, scab, ulcers, or red spots,fatigue, fever, or loss of appetite,headache, itching, sore throat, or swollen lymph nodes
+herpangina,headache,Fever,Sore throat,Small blisters and ulcers may cover the soft palate, uvula, tonsils, and posterior pharynx,Enlarged lymph nodes,Rash
+nasopharyngeal cancer,nasopharyngeal cancer,A lump in your neck caused by a swollen lymph node,Blood in your saliva,Bloody discharge from your nose,Nasal congestion or ringing in your ears,Hearing loss,Frequent ear infections,Sore throat,Headaches
+childhood obesity,fatty liver,bullying,gallstones,anorexia nervosa,childhood obesity,liver disease,type 2 diabetes,
+impetigo,impetigo, red rashes, blister,itching
+multiple myeloma,multiple myeloma,Bone pain, especially in your spine or chest,Nausea,Constipation,Loss of appetite,Mental fogginess or confusion,Fatigue,Frequent infections,Weight loss,Weakness or numbness in your legs,Excessive thirst
+schistosomiasis,schistosomiasis,Fever,Abdominal pain (liver/spleen area),Bloody diarrhea or blood in the stools,Cough,Malaise,Headache,Rash,Body aches
+hyperthyroidism,hyperthyroidism,Excessive sweating,Heat intolerance,Increased bowel movement,Tremor,Nervousness, agitation, anxiety,Rapid heart rate, palpitations, irregular heart rate,Weight loss,Fatigue, weakness,Decreased concentration,Irregular and scant periods (menstruation),Fine or brittle hair,Rapid heartbeat,Thinning and/or smooth velvety skin,Sleep disturbances
+torn meniscus,torn meniscus,inflammatory response,pain, swelling
+shingles herpes zoster,arthritis,cancer,colitis,rheumatoid arthritis,systemic lupus,ulcerative colitis,
+fungal nails,fungal nails,Thickened,Whitish to yellow-brown discoloration,Brittle, crumbly or ragged,Distorted in shape,A dark color, caused by debris building up under your nail,Smelling slightly foul
+gangrene,gangrene,blister, blue skin from poor circulation, dark scab, discolouration, or ulcers,fever or low blood pressure,creaky joints, foul-smelling discharge, pus, or reduced sensation of touch
+rheumatic fever,rheumatic fever,in the chest or joints, fatigue, fever, or inability to exercise fast heart rate, murmur, or palpitations,multiple-joint inflammation, rash with pink rings and lines, or sore throat
+colitis,colitis,Intense pain,Tenderness in the abdomen,Depression,Rapid weight loss,Aches and pains in the joints,Loss of appetite,Fatigue,Changes in bowel habits (increased frequency),Fever,Swelling of the colon tissue,Erythema (redness),Ulcers on the colon,Mucus and/or blood in stool and rectal bleeding,Diarrhea,include gas, bloating, indigestion, heartburn, gastro esophageal reflux disease, cramps, bowel urgency
+sick building syndrome,sick building syndrome,Headache,Nausea,Diarrhea,Hoarseness or cough,Bloating,Gas,Dizziness,Fatigue,Muscle discomfort (stiffness, pain, cramps, aches),Congestion,Sneezing,Nosebleeds,Itching,Skin rash,Eye irritation,Sore throat,Swelling of legs, trunk, and/or ankles,Shortness of breath,Chest pains,Cardiac arrhythmias,Mental changes
+swine flu,swine flu,Pain in the muscles,dry cough,diarrhoea, nausea,vomiting,chills, fatigue, or fever,headache, shortness of breath,sore throat
+breast cancer.discomfort, inverted nipple, lumps, or nipple discharge,redness, swollen lymph nodes, or thickening or puckering of the skin
+colic,colic,Intense crying,Crying for no apparent reason,Extreme fussiness even after crying has diminished,Predictable timing,Facial discoloring, stiffened arms, clenched fists, arched back, or tense abdomen
+retinal detachment,retinal detachment,blurred vision, inability to see in dim light, partial loss of vision, seeing flashes of light, seeing spots, sensitivity to light, temporary loss of vision in one eye, tunnel vision, or vision loss,dilated pupils,
+erectile dysfunction ed impotence,posttraumatic stress disorder,cancer,heart attack,diabetic neuropathy,depression,anxiety,
+sfifth disease,fever or fatigue, rash on the face, coughing, headache, itching, nausea, runny nose, or sore throat
+norovirus infection,Nausea,Vomiting,Abdominal pain or cramps,Watery or loose diarrhea,Malaise,Low-grade fever,Muscle pain
+meningococcemia,meningococcemia, headache, stiffness or resistance to bending the neck forward, and difficulty tolerating light (photophobia),shaking chills and high fever, Rash, vasculitis, or inflammation of small blood vessels
+rotator cuff,rotator cuff, dull ache deep in the shoulder,Disturb sleep,difficulty to reach behind your back,Be accompanied by arm weakness
+double vision,double vision,Misalignment of one or both eyes,Pain when you move your eye,Pain around your eyes, like the temples or eyebrows,Headache,Nausea,Weakness in your eyes,Droopy eyelids
+amyloidosis,amyloidosis,pain in the abdomen, foot, or hands,fatigue, feeling full sooner than normal, nervous system dysfunction, pins and needles or reduced sensation of touch,enlarged heart or irregular heart rate,shortness of breath,rash,abnormally large tongue, bruising, carpal tunnel syndrome, diarrhoea, generalised body swelling, impaired voice, organ dysfunction, puffy eyes, swelling in extremities, tingling feet, or weight loss
+reye syndrome,fatigue, fever, lethargy, low blood sugar,vomiting,diarrhoea,delirium, mental confusion, sleepiness, coma, decreased level of consciousness, dilated pupil, headache, rapid breathing, seizures, or swelling
+osteopenia,osteopenia,osteoporosis,arthritis,rheumatoid arthritis,
+oral thrush,oral thrush,Creamy white lesions on your tongue, inner cheeks, and sometimes on the roof of your mouth, gums and tonsils,Slightly raised lesions with a cottage cheese-like appearance,Redness, burning or soreness that may be severe enough to cause difficulty eating or swallowing,Slight bleeding if the lesions are rubbed or scraped,Cracking and redness at the corners of your mouth,A cottony feeling in your mouth,Loss of taste,Redness, irritation and pain under dentures (denture stomatitis),tuberculosis,loss of muscle, phlegm, severe unintentional weight loss, shortness of breath, or swollen lymph nodes
+posttraumatic stress disorder,agitation, irritability, hostility, hypervigilance, self-destructive behaviour,social isolation,flashback, fear, severe anxiety,or mistrust,loss of interest or pleasure in activities, guilt, loneliness,insomnia or nightmares,emotional detachment or unwanted thoughts
+sprained ankle,pain in the ankle,ankle instability, limping, swelling, tenderness,bruising
+raynauds phenomenon,sensitivity to cold or reduced sensation of touch,lack of blood supply, pallor, red fingers or toes, or throbbing pain in fingers or toes
+gangrene,blister, blue skin from poor circulation, dark scab, discolouration, ulcers,fever, low blood pressure,creaky joints, foul-smelling discharge, pus,reduced sensation of touch
+scleroderma,Pain in the joints, rashes, swollen blood vessels in the skin, ulcers,acid reflux, change in facial expression at rest, chronic cough, difficulty swallowing, dry mouth, fatigue, headache, joint stiffness, raynaud's syndrome, sensitivity to cold, shortness of breath, tight and hardened fingers,weight loss
+tendinitis,pain,tenderness,stiffness,mid swelling, thickening of tendons near the joint
+binge eating disorder,binge eating disorder,Continually eating even when full,Inability to stop eating or control what is eaten,Stockpiling food to consume secretly at a later time,Eating normally in the presence of others but gorging when isolated,Experiencing feelings of stress or anxiety that can only be relieved by eating,Feelings of numbness or lack of sensation while bingeing,Never experiencing satiation:
+bulimia nervosa,binge eating, compulsive behaviour, impulsivity, self-harm, vomiting after overeating, or lack of restraint, dehydration, fatigue, food aversion, hunger, or water-electrolyte imbalance, anxiety, general discontent, guilt, or mood swings, constipation, heartburn, or inflamed oesophagus, bad breath, dental cavities, or dryness, absence of menstruation or irregular menstruation,body weight changes or weight loss,abnormality of taste, depression, poor self-esteem, or sore throat
+anorexia nervosa,dehydration, dizziness, fainting, fatigue, low blood pressure, low body temperature, osteoporosis, water-electrolyte imbalance, or feeling cold,binge eating, compulsive behaviour, hyperactivity, impulsivity, social isolation, anxiety, apprehension,  guilt,underweight, weight loss, or extreme weight loss and thinness, delayed puberty slow growth, irregular menstruation or absence of menstruation, constipation vomiting, brittle nails, bruising, depression, dieting, dry hair, dry skin, headache, sensitivity to cold, slow heart rate
+thoracic outlet syndrome,thoracic outlet syndrome,Pain in the arm, neck, or shoulder,pins and needles or reduced sensation of touch,cold sensitivity of the fingers, headache, muscle weakness, or swelling
+idiopathic thrombocytopenic purpura ,Skin red spots or rash of small purplish spots, bleeding, bruising, heavy or prolonged periods, or nosebleed
+hematoma,discoloration,inflammation and swelling,tenderness in the area,redness,warmth in the skin surrounding the hematoma,pain,severe worsening headache,uneven pupils,difficulty moving an arm or leg,hearing loss,difficulty swallowing,sleepiness,drowsiness,loss of consciousness,
+scleroderma,scleroderma,Pain in the joints, rashes, swollen blood vessels in the skin, or ulcers,acid reflux, change in facial expression at rest, chronic cough, difficulty swallowing, dry mouth, fatigue, headache, joint stiffness, raynaud's syndrome, sensitivity to cold, shortness of breath, tight and hardened fingers, or weight loss
+kernicterus,Changes in skin color, yellow or orange tint,Difficulty waking up or trouble sleeping at all,Problems feeding, either from the breast or bottle,Extreme fussiness,Fewer than average wet or dirty diapers
+peptic ulcer,peptic ulcer,Pain in the chest or upper abdomen,belching, heartburn, indigestion, nausea, passing excessive amounts of gas, or vomiting,fatigue, feeling full sooner than normal, or loss of appetite,abdominal discomfort
+migraine,migraine,Severe, pain,Nausea, vomiting,Sensitivity to light,Sensitivity to sound,Eye pain
+feltys syndrome,Anemia,Burning eyes,Fatigue,Fever,Loss of appetite or weight loss,Pale skin,Repeat infections or infections that take a long time to clear up, especially in your lungs, urinary tract, or blood,Soresspots on your legs,Stiff, swollen, or painful joints, usually in your hands, feet, or arms,swollen spleen
+asperger syndrome,aggression, compulsive behaviour, fidgeting, impulsivity, repetitive movements, social isolation, or persistent repetition of words or actions,inability to combine muscle movements, poor coordination, or tic,anger, anxiety, or apprehension,depression, intense interest in a limited number of things, learning disability, nightmares, or sensitivity to sound
+pericarditis,Pain in the chest,Whole body fatigue ,fever, chest pressure, shortness of breath
+systemic lupus,Pain in the muscles,Pain can occur while breathing,Pain in the chest,anaemia, fatigue, fever, or malaise,dryness or ulcers, red rashes or scaly rashes,hair loss or loss of scalp hair, anxiety, blood in urine, clinical depression, face rash, flare, headache, joint stiffness, raynaud's syndrome, sensitivity to light, swelling, water retention, or weight loss
+brucellosis facts,Pain in the abdomen, back, joints, or muscles, fever, chills, fatigue, loss of appetite, or night sweats,coughing, headache, swollen lymph nodes, or weight loss
+osteoporosis,osteoporosis,bone fracture ,loss of height
+mers middle east respiratory syndrome,Pain in the chest,fatigue, fever, chills, loss of appetite, or body ache,diarrhoea, nausea, or vomiting,congestion or sneezing,coughing, shortness of breath, headache, or sore throat
+pericarditis,Pain in the chest,fatigue , fever, chest pressure, shortness of breath
+plant thorn synovitis,swollen,slightly reddish,stiff,painful.
+toxic shock syndrome tss,Pain in the abdomen or muscles,high fever, low blood pressure, chills, dizziness, fainting, fatigue, light-headedness,diarrhoea, nausea, or vomiting,Skin peeling ,rashes, organ dysfunction, fast breathing, headache, insufficient urine production, mental confusion, sore throat
+anal cancer,Bleeding from the anus or rectum,Pain in the area of the anus,A mass or growth in the anal canalm,Anal itching
+fibromyalgia,Pain  in the muscles, abdomen, back, or neck,Pain  can be chronic, diffuse, sharp, or severe,Pain can occur at night, constipation, nausea, or passing excessive amounts of gas,fatigue, feeling tired, or malaise,muscle tenderness, delayed onset muscle soreness, or muscle spasms,pins and needles, sensitivity to cold, or sensitivity to pain, anxiety, mood swings, or nervousness, difficulty falling asleep or sleep disturbances, forgetfulness or lack of concentration, sensation of coldness or tingling, depression, flare, headache, irritability, joint stiffness, painful menstruation, or tingling feet
+fatigue,diarrhea,anxiety,constipation,dry eyes,dry mouth,
+brief psychotic disorder,brief psychotic disorder,Delusions,Hallucinations,Disorganized speech,Severely disorganized, catatonic behavior
+schizoaffective disorder,schizoaffective disorder, belief that an ordinary event has special and personal meaning, delusion, thought disorder, racing thoughts, thoughts of suicide, or false belief of superiority,anxiety, euphoria, hopelessness, limited range of emotions, loss of interest or pleasure in activities, or mood swings, depression, hallucination, paranoia, psychosis, hearing voices, or grandiosity,social isolation, impulsivity, restlessness, self-harm, or sudden increases in energy,appetite changes or rapid and frenzied speaking
+bipolar disorder,mood swings, sadness, elevated mood, anger, anxiety, apathy, apprehension, euphoria, general discontent, guilt, hopelessness, loss of interest, or loss of interest or pleasure in activities,irritability, risk-taking behaviours, disorganised behaviour, aggression, agitation, crying, excess desire for sex, hyperactivity, impulsivity, restlessness, or self-harm, unwanted thoughts, delusion, lack of concentration, racing thoughts, slowness in activity, or false belief of superiority, depression, manic episode, agitated depression, or paranoia, difficulty falling asleep or excess sleepiness, weight gain or weight loss,fatigue or rapid and frenzied speaking
+coats disease,vision loss,
+retinal detachment, blurred vision, inability to see in dim light, partial loss of vision, seeing flashes of light, seeing spots, sensitivity to light, temporary loss of vision in one eye, tunnel vision, or vision loss, dilated pupil or redness
+postherpetic neuralgia,Itching and numbness,rashes, Pain that lasts three months or longer,sensitvity to light touch
+cervical cancer,cervical cancer,Pain in the pelvis,Pain can occur during sexual intercourse,abnormal menstruation, heavy menstruation, irregular menstruation, or spotting,abnormal vaginal bleeding/abnormal vaginal discharge,fatigue, nausea, or weight loss
+separation anxiety,separation anxiety,crying, nightmares, palpitations,rapid breathing,depression, fear,anxiety , apphrehension
+thyroid cancer,thyroid cancer,thyroid nodules,enlarged lymph nodes, lump, or swelling,pain in the neck
+necrotizing fasciitis,necrotizing fasciitis,Pain in the skin, fever, chills, fatigue, or low blood pressure,Skin discolouration, redness, blister, or crackling sensation under the skin,swelling, kidney failure, nausea, or pus
+liver disease,Skin and eyes that appear yellowish (jaundice),Abdominal pain and swelling,Swelling in the legs and ankles,Itchy skin,Dark urine color,Pale stool color, or bloody or tar-colored stool,Chronic fatigue,Nausea or vomiting,Loss of appetite,Tendency to bruise easily
+occupational asthma,occupational asthma,Wheezing just at night,Coughing,Shortness of breath,Chest tightness,Runny nose,Nasal congestion,Eye irritation and tearing,
+septic arthritis,septic arthritis,Chills,Fatigue and generalized weakness,Fever,Inability to move the joint,Severe pain in the affected joint, especially with movement,Swelling ,Warmth
+rotavirus,rotavirus,Lethargy,drinking less fluids,Frequent vomiting,Stools that are black or contain blood or pus,Any temperature in a baby younger than 6 months,A temperature for more than 24 hours, if your child is older than 6 months
+pandas,ADHD symptoms (hyperactivity, inattention, fidgety),Separation anxiety ,Mood changes, irritability, sadness, emotional lability,Trouble sleeping, night-time bed-wetting, day-time frequent urination or both,changes in handwriting,Joint pains
+orthostatic hypotension,lightheadedness,confusion,nausea,fainting ,passing out,weakness, blurred vision, shaking,tremulousness.
+paraphilia,paraphilia,guilt and fear of punishment,distress,depression, anxiety, sexual stimulant exclusion
+urethral stricture,urethral stricture,Decreased urine stream,Incomplete bladder emptying,Spraying of the urine stream,Difficulty, straining or pain when urinating,Increased urge to urinate or more-frequent urination,Urinary tract infection
+prostate cancer,pain in the bones,difficulty starting and maintaining a steady stream of urine, dribbling of urine, excessive urination at night, frequent urination, urge to urinate and leaking, urinary retention, or weak urinary stream
+chagas disease,Pain in the abdomen or muscles,fever,body ache, headache, painless swelling around eye, palpitations, skin rash
+edema,swollen, stretched,shiny skin,skin that retains a dimple after being pressed for a few seconds,puffiness of the ankles, face, or eyes,aching body parts and stiff joints,weight gain or loss,fuller hand and neck veins,higher pulse rate and blood pressure,headache,abdominal pain,changes in bowel habits,nausea and vomiting,confusion and lethargy,visual abnormalities
+constipation,stomach ache,stomach cramps,feeling bloated,nauseous,losing appetite,pain in passing stool
+myocarditis,Pain in the chest,dizziness, fatigue, malaise,abnormal heart rhythm, murmur, palpitations,fast breathing, shortness of breath, or shortness of breath on lying down,swelling in extremities
+type 1 diabetes,excessive thirst, fatigue, hunger, sweating,nausea, vomiting, bed wetting, excessive urination,blurred vision, fast heart rate, frequent infections, headache, sleepiness, or weight loss
+low potassium hypokalemia,Weakness,Fatigue,Muscle cramps, twitching,Constipation,Cardiac Arrhythmia
+diarrhea,stomach pain,abdominal cramps,bloating,thirst,weight loss,fever,blood or pus in the stools,persistent vomiting,dehydration
+testicular cancer,testicular cancer,Pain in the lower back,cancer-related fatigue or fatigue, painless testicular lump, swelling of scrotum, swollen lymph nodes, or weight loss
+lung cancer,Pain in the chest or rib, can be chronic, dry, with phlegm, or with blood,frequent respiratory infections, shortness of breath, or wheezing,fatigue or loss of appetite,hoarseness, swollen lymph nodes, weakness, or weight los
+keratosis pilaris,darkening of the skin, dryness, pimples, redness,follicular papules
+rosacea,dryness, oily skin, rashes that look like acne, or swollen blood vessels in the skin, dryness or puffy eyes, photosensitivity, itching, large and bulbous red nose, or red face
+atopic dermatitis,rashes, dryness, flakiness, bumps, fissures, peeling, or redness, itching
+cyst,Pelvic pain ,Fullness or heaviness in your abdomen,Bloating,
+keratosis pilaris,darkening of the skin, dryness, pimples, or redness,follicular papules
+acne,: pimples, redness, or tenderness, pimple or blackhead
+toothache,Tooth pain that may be sharp, throbbing, , constant,pain results only when pressure is applied to the tooth,Swelling around the tooth,Fever , headache,Foul-tasting drainage from the infected tooth
+schizophrenia,social isolation, disorganised behaviour, aggression, agitation, compulsive behaviour, excitability, hostility, repetitive movements, self-harm, lack of restraint,thought disorder, delusion, amnesia, belief that an ordinary event has special and personal meaning, belief that thoughts aren't one's own, disorientation, memory loss, mental confusion, slowness in activity, , false belief of superiority,anger, anxiety, apathy, feeling detached from self, general discontent, loss of interest , pleasure in activities, elevated mood, , inappropriate emotional response, hallucination, paranoia, hearing voices, depression, fear, persecutory delusion, , religious delusion, circumstantial speech, incoherent speech, rapid and frenzied speaking, speech disorder, fatigue, impaired motor coordination, lack of emotional response
+lichen planus,lichen planus, blister, darkening of the skin, loss of colour, peeling, rashes, small bump, ulcers, or redness,hair loss, itching, or mouth ulcer
+roseola,roseola,fever or loss of appetite, irritability, red spots on the soft palate, skin rash, swollen lymph nodes, runny nose, or sore throat
+febrile seizures,Convulsions,Eye-rolling,Unresponsiveness,Moaning,Losing bowel or bladder control,Bleeding tongue,
+encopresis,Pain during bowel movements,Reluctance to have bowel movements, including straining to hold stool in,Soiling in a child,allergy,itch,
+achilles tendon rupture,The feeling of having been kicked in the calf,Pain, possibly severe, and swelling near the heel,An inability to bend the foot downward or "push off" the injured leg when walking,An inability to stand on the toes on the injured leg,A popping or snapping sound when the injury occurs
+urethral cancer,urethral cancer,Trouble starting the flow of urine,Weak or interrupted flow of urine,Frequent urination,Incontinence,Discharge from the urethra,Bleeding from the urethra or blood in the urine.,A lump or thickness in the perineum or penis,A painless lump or swelling in the groin.
+lyme disease,Pain in the joints or muscles, fatigue, fever, or malaise,stiffness or swelling, bull's-eye pattern rash or headache
+cyclic vomiting syndrome cvs,fainting,depression,anxiety,headache,migraine,dehydration,panic disorder,allergy,
+cosmetic allergies, skin reactions ,inflammatory dermatitis,scaling, dry, itchy red area, an eczematous dermatitis,hives
+chronic rhinitis,Pain in the ear, congestion, loss of smell, redness, runny nose, post-nasal drip, sneezing, or stuffy nose,itchiness, puffy eyes, redness, or watery eyes, breathing through the mouth or wheezing,coughing, fatigue, headache, itching, phlegm, or throat irritation
+deviated septum,Pain in the sinuses,bleeding, congestion, loss of smell, runny nose, or post-nasal drip,headache, mouth breathing, physical deformity, or snoring
+retinitis pigmentosa,blurred vision, inability to see in dim light, vision disorder, vision loss, or tunnel vision
+cataracts,blurred vision, inability to see in dim light, seeing halos around lights, or vision loss
+mucormycosis,mucormycosis,fever, headache, reddish and swollen skin over nose and sinuses, dark scabbing in the nose by the eye(s), visual problems, eye(s) swelling, facial pain
+psoriasis,Pain in the joints,rashes, dryness, fissures, flakiness, peeling, small bump, thickness, or redness, depression, inflamed tendons, itching, joint stiffness, plaque, or small dents in nails
+hay fever,Pain in the ear, congestion, loss of smell, redness, runny nose, post-nasal drip, sneezing, or stuffy nose,itchiness, puffy eyes, redness, or watery eyes,breathing through the mouth or wheezing, coughing, fatigue, headache, itching, phlegm, or throat irritation
+jock itch, itching, groin rash, or redness,
+atopic dermatitis, rashes, dryness, flakiness, bumps, fissures, peeling, or redness, itching
+ringworm,darkening of the skin, fissures, peeling, red rashes, or scaly patches, hair loss or itchy scalp
+head lice,a tickling feeling of something moving in the hair,itching,sores on the head,irritability.
+pseudogout,Sudden, intense joint pain,Swollen joint that's warm to the touch,Red or purple skin around the joint,Severe tenderness around the joint
+myasthenia gravis,myasthenia gravis,muscle weakness or weakness of the arms and legs,drooping of upper eyelid or muscle weakness,difficulty speaking, difficulty swallowing, double vision, fatigue, or shortness of breath
+common cold,common cold,Pain  in the muscles,Cough can be with phlegm,nose congestion, runny nose, sneezing, loss of smell, redness, or post-nasal drip, chills, fatigue, fever, malaise, or body ache, watery eyes, itchiness, or rednesshead congestion or sinus pressure, chest pressure, headache, swollen lymph nodes, or throat irritation
+anaphylaxis,anaphylaxis,fainting, light-headedness, low blood pressure, dizziness, or flushing,difficulty breathing, rapid breathing, shortness of breath, or wheezing,hives, swelling under the skin, blue skin from poor circulation, or rashes,nausea or vomiting, fast heart rate, feeling of impending doom, itching, tongue swelling, difficulty swallowing, facial swelling, impaired voice, mental confusion, or nasal congestion
+hives,raised area of skin, swelling, or inflammation in response to touch,swelling, itching, or flare
+toothache,Tooth pain that may be sharp, throbbing, , constant,pain results only when pressure is applied to the tooth,Swelling around the tooth,Fever , headache,Foul-tasting drainage from the infected tooth
+schizophrenia,social isolation, disorganised behaviour, aggression, agitation, compulsive behaviour, excitability, hostility, repetitive movements, self-harm, lack of restraint,thought disorder, delusion, amnesia, belief that an ordinary event has special and personal meaning, belief that thoughts aren't one's own, disorientation, memory loss, mental confusion, slowness in activity, , false belief of superiority,anger, anxiety, apathy, feeling detached from self, general discontent, loss of interest , pleasure in activities, elevated mood, , inappropriate emotional response, hallucination, paranoia, hearing voices, depression, fear, persecutory delusion, , religious delusion, circumstantial speech, incoherent speech, rapid and frenzied speaking, speech disorder, fatigue, impaired motor coordination, lack of emotional response
+lichen planus,lichen planus, blister, darkening of the skin, loss of colour, peeling, rashes, small bump, ulcers, or redness,hair loss, itching, or mouth ulcer
+roseola,roseola,fever or loss of appetite, irritability, red spots on the soft palate, skin rash, swollen lymph nodes, runny nose, or sore throat
+febrile seizures,Convulsions,Eye-rolling,Unresponsiveness,Moaning,Losing bowel or bladder control,Bleeding tongue,
+encopresis,Pain during bowel movements,Reluctance to have bowel movements, including straining to hold stool in,Soiling in a child,allergy,itch,
+achilles tendon rupture,The feeling of having been kicked in the calf,Pain, possibly severe, and swelling near the heel,An inability to bend the foot downward or "push off" the injured leg when walking,An inability to stand on the toes on the injured leg,A popping or snapping sound when the injury occurs
+urethral cancer,urethral cancer,Trouble starting the flow of urine,Weak or interrupted flow of urine,Frequent urination,Incontinence,Discharge from the urethra,Bleeding from the urethra or blood in the urine.,A lump or thickness in the perineum or penis,A painless lump or swelling in the groin.
+lyme disease,Pain in the joints or muscles, fatigue, fever, or malaise,stiffness or swelling, bull's-eye pattern rash or headache
+interstitial cystitis,interstitial cystitis,Pain in the bladder, pelvis, penis, or testicle, pain can occur during urination or during sexual intercourse,frequent urge to urinate, frequent urination, bladder spasm, or excessive urination at night
+bladder cancer,Pain can occur during urination,dark urine, frequent urination, or blood in urine
+endometriosis,Pain in the lower abdomen, lower back, pelvis, rectum, or vagina,Pain  can occur during sexual intercourse or while defecating, abnormal menstruation, heavy menstruation, irregular menstruation, painful menstruation, or spotting,constipation or nausea, abdominal fullness or cramping,infertility
+urinary tract infection,Pain  in the bladder, groin, lower abdomen, or pelvis,Pain  can occur during urination or during sexual intercourse,foul smelling urine, frequent urination, bladder spasm, cloudy urine, dark urine, persistent urge to urinate, sense of incomplete bladder emptying, or blood in urine,fatigue, fever, or malaise, cramping or vaginal irritation
+adult adhd, hyperactivity, fidgeting, impulsivity, irritability, risk-taking behaviours, or lack of restraint, difficulty focusing, forgetfulness, lack of concentration, problem paying attention, racing thoughts, or short attention span, anxiety, boredom, excitement, or mood swings,depression, learning disability, or sleep deprivation
+pulmonary fibrosis,Shortness of breath (dyspnea),A dry cough,Fatigue,Unexplained weight loss,Aching muscles and joints,Widening and rounding of the tips of the fingers or toes (clubbing)
+separation anxiety,anxiety or apprehension,depression or fear, crying, nightmares, palpitations, or rapid b
+posttraumatic stress disorder,agitation, irritability, hostility, hypervigilance, self-destructive behaviour, or social isolation,flashback, fear, severe anxiety, or mistrust, loss of interest or pleasure in activities, guilt, or loneliness,insomnia or nightmares, emotional detachment or unwanted thoughts
+trachoma,pain in the eyes,small bumps on the inside of the eyelids, redness, eyelash rubbing against eyeball, or itchiness,sensitivity to light or vision loss,eyelid scarring or mucus and pus discharge
+leishmaniasis,leishmaniasis,weight loss, hyper-pigmentation,which may be severe,low blood counts (pancytopenia),enlargement of the liver and spleen (hepatosplenomegaly), which may distend the abdomen,fever, which is usually intermittent,high levels of immune globulin in the blood (hypergammaglobulinemia).
+ankylosing spondylitis,Pain  in the ankle, eyes, heel, hip, joints, lower back, middle back, neck, or shoulderPain  can occur during rest,Pain can be arthritic, blurred vision or sensitivity to light, inflammation of the eye's middle layer or redness, back joint dysfunction or stiffness, bone tissue formation, fatigue, hunched back, inflamed tendons, inflammatory bowel disease, physical deformity, or sleep disorder
+psoriatic arthritis,Pain in the joints or back,stiffness or swelling, skin rash, fatigue, inflamed fingers or toes, itching, physical deformity, small dents in nails, or tendinitis
+eosinophilic fasciitis,eosinophilic fasciitis,swelling, stiffness, warmth, and pain, discoloration of skin
+antisocial personality disorder,antisocial behaviour, deceitfulness, hostility, irresponsibility, manipulativeness, risk-taking behaviours, aggression, impulsivity, irritability, or lack of restraint, anger, boredom, or general discontent, physical substance dependence or substance abuse
+borderline personality disorder,antisocial behaviour, compulsive behaviour, hostility, impulsivity, irritability, risk-taking behaviours, self-destructive behaviour, self-harm, social isolation, or lack of restraint, anger, anxiety, general discontent, guilt, loneliness, mood swings, or sadness,depression, distorted self-image, grandiosity, or narcissism,thoughts of suicide
+narcissistic personality disorder, grandiosity, callous and unemotional traits, disregard for others' feelings, excessive need for admiration, or social isolation
+deep vein thrombosis,Pain in the calf, foot, or leg, swelling in extremities, tenderness, or warm skin
+dupuytren contracture,lump in the palm or bent finger
+diaper rash,diaper rash, rashes, blister, peeling, pimples, or redness, itchiness around anus
+onchocerciasis,onchocerciasis,bumps under the skin, rashes, or scar,visual impairment or inability to distinguish certain colours,itching, eye redness, or swollen lymph nodes
+diphtheria facts,chills, fatigue, fever, or malaise,noisy breathing or shortness of breath,rashes or ulcers, hoarseness or impaired voice, difficulty swallowing or soreness, coughing, muscle weakness, runny nose, swelling, or swollen lymph nodes
+keloid,keloid,lumps, darkening of the skin, swollen blood vessels in the skin, or redness, itching
+typhus,typhus,cough and abdominal pain, joint pain, and back pain,rash,bleeding of skin
+pagets disease, pain in the back, bones, hip, joints, or neck, bone deformities, abnormality walking, bone fracture, bow legs, headache, joint stiffness, or sensation of pins and needles
+bursitis, pain and tenderness
+breast cancer, breast discomfort, inverted nipple, lumps, or nipple discharge,redness, swollen lymph nodes, or thickening or puckering of the skin
+lymphedema,lymphedema,Pain  in the arms or legs or skin,dimpled skin , swelling in extremities, frequent skin infections of affected limb, swollen lymph nodes, or water retention
+pork tapeworm infection,Pain in the abdomen, nausea or vomiting, headache, lump, seizures, or swelling of optic disc
+sporotrichosis,sporotrichosis,shortness of breath, cough, and fever
+insomnia,insomnia, sleeping difficulty or daytime sleepiness, lack of concentration or slowness in activity, depression, headache, or irritability
+Infectious mononucleosis ,pain can occur while swallowing,fatigue, fever, chills, malaise, or body ache, sore throat, swollen lymph nodes, swollen tonsils, headache, or nausea
+hay fever,hay fever,Pain in the ear,congestion, loss of smell, redness, runny nose, post-nasal drip, sneezing, or stuffy nose, itchiness, puffy eyes, redness, or watery eyes, breathing through the mouth or wheezing, coughing, fatigue, headache, itching, phlegm, or throat irritation
+kidney cancer,kidney cancer,Blood in your urine,Pain in your back or side ,Loss of appetite,Unexplained weight loss,Tiredness,Fever,
+rabies virus,
+Pain in the muscle, dizziness, fatigue, fever, loss of appetite, or malaise, delirium, fear, or hallucination, nausea or vomiting, muscle spasms or paralysis with weak muscles,pins and needles or sensitivity to light aggression or irritability, anxiety, brain death, coma, difficulty swallowing, dilated pupil, drooling, excess salivation, headache, mental confusion, neck stiffness, or seizures
+severe acute respiratory syndrome sars,Pain in the muscles,fever, chills, or malaise, respiratory distress or shortness of breath, coughing, infection, or headache
+gum disease,gum disease,swollen, red and tender gums, bad breath, toothache, bright red gums, loose teeth, receding gums, tender gums, or tooth loss, swelling or bleeding
+encephalopathy,altered level of consciousness, amnesia, inability to speak or understand language, lack of concentration, mental confusion, or slowness in activity, problems with coordination, rhythmic muscle contractions, rhythmic muscle spasm, or overactive reflexes,fainting or fatigue,abnormal breathing pattern, coma, delirium, flapping hand tremor, personality change, rapid involuntary eye movement, or seizures with no outward symptoms
+rosacea,rosacea,dryness, oily skin, rashes that look like acne, or swollen blood vessels in the skin,dryness or puffy eyes,photosensitivity, itching, large and bulbous red nose, or red face
+Dengue fever,dengue fever,Pain  in the abdomen, back, back of the eyes, bones, joints, or muscles,chills, fatigue, fever, or loss of appetite,nausea or vomiting, rashes or red spots, easy bruising or headache
+postpartum depression,postpartum ,depression, anger, anxiety, guilt, hopelessness, loss of interest or pleasure in activities, mood swings, or panic attack,crying, irritability, or restlessness,fatigue or loss of appetite, lack of concentration or unwanted thoughts, depression or fear,weight gain or weight loss, insomnia or repeatedly going over thoughts
+botulism,botulism,Pain in the abdomen, constipation, nausea, or vomiting, dizziness or fatigue,drooling or dryness, blurred vision or double vision,dilated pupil or weak eye muscles, drooping of upper eyelid or muscle weakness, difficulty speaking, difficulty swallowing, paralysis with weak muscles, shortness of breath, slow reflexes, or urinary retention
+hydrocephalus,hydrocephalus,abnormality walking, instability, problems with coordination, or stiff muscles, nausea or vomiting, blurred vision, bulging soft spot on a baby's head, delayed development, enlargement of head, headache, high pitched cry, irritability, leaking of urine, mental confusion, or sleepiness
+osteomyelitis,osteomyelitis,Pain in the bones or hip, chills, fatigue, fever, malaise, or night sweats,ulcers or redness, swelling
+larynx cancer,sore throat and ear pain
+avian influenza bird flu,Pain in the muscles,fever or malaise, runny nose or sneezing, coughing, headache, shortness of breath, or sore throat
+cellulitis,cellulitis,Pain in the skin, warmness, blister, red rashes, or swelling, chills, fever, or malaise, pus
+temporomandibular joint syndrome ,Pain in the face, ear, jaw, or mouth,pain can be chronic,difficulty chewing or toothache, crackles or tenderness,headache, joint locking, or muscle spasms
+trigeminal neuralgia,Pain  in the mouth and face, over sensitivity or uncomfortable tingling and burning, paroxysmal attack of facial pain, severe facial pain, sharp facial pain, unilateral facial pain, or muscle spasms
+baker cyst,Pain in the knee,joint stiffness, lump, or swelling
+bed bugs, skin small bump or redness, itching or swelling
+indoor allergens,nasal congestion, runny nose, watering of the eyes, sneezing, and postnasal drip,wheezing or difficulty breathing,e conjunctivitis, an inflammation of the lining membranes of the eyes, red, watery, and itching eyes.
+pancreatic cancer,pancreatic cancer,Pain  in the abdomen or middle back,fluid in the abdomen or nausea, fatigue or loss of appetite, dark urine, weight loss, or yellow skin and eyes
+ringworm,ringworm,darkening of the skin, fissures, peeling, red rashes, or scaly patches, hair loss or itchy scalp
+turf toe ,pain that increases on extending the big toe or bearing weight upon it,a "popping" feeling in the foot when the injury occurs,swelling around the big toe,instability and limited movement of the big toe,stiffness around the big toe
+leptospirosis,leptospirosis,Pain in the joints or muscles, diarrhoea, nausea, or vomiting, chills, fatigue, or high fever, headache, red eyes, skin rash, or sore throat
+steroid withdrawal,steroid withdrawal,Weakness,Fatigue,Decreased appetite,Weight loss,Nausea,Vomiting,Diarrhea,Abdominal pain,Low blood pressure (hypotension),Dizziness or fainting,Low blood sugar (hypoglycemia),Menstrual changes,Less often, joint pain, skin changes, muscle aches, fever, mental changes, or elevations of calcium , Dehydration and electrolyte
+hoarseness,voice a raspy and harsh quality,change in pitch in voice
+leprosy,leprosy,Pain in the joints,blister, loss of colour, rashes, ulcers, or redness, reduced sensation of touch, pins and needles, or loss of temperature sensation, nerve injury or weight loss
+mold exposure,mold exposure, runny nose, post-nasal drip, or sneezing, itchiness, puffy eyes, or watery eyes,coughing, shortness of breath, or throat irritation
+ovarian cancer,ovarian cancer,Pain  in the abdomen or pelvis,Bloating, change in bowel habits, fluid in the abdomen, indigestion, or nausea, cancer-related fatigue or loss of appetite, abdominal fullness or lump in the abdomen, weight loss
+kawasaki disease, Pain in the abdomen or joints, diarrhoea or vomiting, fever or high fever, peeling or red rashes, pink eye, chapped lips, enlarged neck lymph nodes, fast heart rate, hand swelling, irritability, red palms, red soles of feet, swollen and bumpy tongue that's red, or swollen feet
+gastroparesis,gastroparesis,Pain in the abdomen,Ga nausea, belching, bloating, heartburn, indigestion, regurgitation, or vomiting,feeling full sooner than normal or loss of appetite, postprandial fullness
+iliotibial band syndrome,Pain in the hip, knee, or leg, swelling
+brain cancer,can be acute or persistent,difficulty walking, instability, muscle weakness, problems with coordination, weakness of one side of the body, or,weakness of the arms and legs, dizziness, fatigue, or vertigo,nausea or vomiting,pins and needles or reduced sensation of touch,inability to speak or understand language or mental confusion,blurred vision, difficulty speaking, personality change, seizures, or sleepiness
+psoriasis,psoriasis,Pain in the joints, rashes, dryness, fissures, flakiness, peeling, small bump, thickness, or redness,depression, inflamed tendons, itching, joint stiffness, plaque, or small dents in nails
+yellow fever,yellow fever,Pain in the abdomen or muscles, chills, fatigue, fever, or loss of appetite,nausea or vomiting,bleeding, delirium, headache, or yellow skin and eyes
+pityriasis rosea,pityriasis rosea,rashes, loss of colour, small bump, or redness, red, scaly rash in patches or itching
+borderline personality disorder,antisocial behaviour, compulsive behaviour, hostility, impulsivity, irritability, risk-taking behaviours, self-destructive behaviour, self-harm, social isolation, or lack of restraint,anger, anxiety, general discontent, guilt, loneliness, mood swings, or sadness, depression, distorted self-image, grandiosity, or narcissism,Thoughts of suicide
+warts,small growths on skin or thickness, itching or lesions in mouth or around genital regions
+stills disease,fever,rash, sore throat, body ache, swollen joints, muscle pain
+sjogrens syndrome,Pain in the joints or muscles, abnormality of taste, loss of taste, or pins and needles, dental cavities, dryness, or ulcers, hoarseness or impaired voice, difficulty swallowing or dryness,dry cough, dry eyes, dry skin, fatigue, joint stiffness, stiffness, swollen lymph nodes, or vaginal dryness
+neuroblastoma,neuroblastoma,Pain in the abdomen or bones, fatigue, fever, or loss of appetite, bulging of the eye or dark circles around the eyes, abdominal distension, coughing, failure to thrive, lump in the abdomen, pallor, shortness of breath, or weight loss
+dislocated shoulder,pain in the shoulder, limited joint mobility, physical deformity, swelling, or bruising
+ingrown toenail,ingrown toenail,redness, swelling, tenderness, or limping
+atopic dermatitis,atopic dermatitis, rashes, dryness, flakiness, bumps, fissures, peeling, or redness,itching
+hypothyroidism,fatigue, lethargy, or feeling cold, delayed puberty or slow growth,hair loss or dryness, brittle nails, constipation, dry skin, enlarged thyroid, high cholesterol, irregular uterine bleeding, irritability, sensitivity to cold, sexual dysfunction, slow heart rate, sluggishness, or weight gain,
+corns,corns, thickness or dryness,
+bunions,Pain in the joints,deformity at base of big toe or thick skin at base of big toe,stiffness or swelling, redness or tenderness
+Blepharitis,blepharitis,Pain in the eyes,eyelid redness, irritation, puffy eyes, contact lens intolerance, eyelash rubbing against eyeball, loss of eyelashes, discharge, dryness, itchiness, or watery eyes, blurred vision or sensitivity to light, crusty eyelashes or peeling skin
+chalazion,lump on the eyelid or eyelid redness
+juvenile arthritis,Joint stiffness, especially in the morning,Pain, swelling, and tenderness in the joints,Limping,Persistent fever,Rash,Weight loss,Fatigue,Irritability,Eye redness or eye pain,Blurred vision,
+Glaucoma, blurred vision, distorted vision, or vision loss
+osteoporosis,bone fracture or loss of height
+acute hepatitis,diarrhea,fatigue,loss of appetite,mild fever,muscle or joint aches,nausea,slight
+Chronic hepatitis,hives,itchy skin,light-colored feces,yellow skin, whites of the eyes, and tongue,diarrhea,fatigue,loss of appetite,mild fever,muscle or joint aches,nausea,slight
+hepatitis a,Pain in the abdomen, joints, or muscles, diarrhoea, nausea, or vomiting,fatigue, fever, or loss of appetite, dark urine, itching, weight loss, or yellow skin and eyes
+hepatitis c,Pain in the abdomen, bleeding, bloating, fluid in the abdomen, or nausea, fatigue, fever, or loss of appetite,web of swollen blood vessels in the skin or yellow skin and eyes, depression or weight loss
+cirrhosis,Pain  in the abdomen, bleeding, dark stool from digested blood, fluid in the abdomen, nausea, passing excessive amounts of gas, vomiting blood, or water retention,fatigue, loss of appetite, or reduced hormone production,web of swollen blood vessels in the skin or yellow skin and eyes,weight gain or weight loss,bleeding, breast enlargement, bruising, dark urine, enlarged veins around belly button, itching, mental confusion, muscle weakness, shortness of breath, swelling, swelling in extremities, or swollen veins in the lower oesophagus
+esophageal cancer,esophageal cancer,Pain in the abdomen,: dark stool from digested blood, heartburn, indigestion, nausea, or vomiting blood, difficulty swallowing, iron deficiency anemia, loss of appetite, or weight loss
+cytomegalovirus,cytomegalovirus,fever,night sweats,tiredness and uneasiness,sore throat,swollen glands,joint and muscle pain,low appetite and weight loss
+Recurring cytomegalovirus,fever,diarrhea, gastrointestinal ulcerations, and gastrointestinal bleeding,shortness of breath,pneumonia with hypoxemia, or low blood oxygen,mouth ulcers that can be large,problems with vision, including floaters, blind spots, and blurred vision,hepatitis, or inflamed liver, with prolonged fever,encephalitis, or inflammation of the brain, , seizures, coma.
+colitis,Pain in the abdomen, joints, or rectum,pain can be intermittent in the abdomen, bloating, blood in stool, diarrhoea, inability to empty bowels, leaking of stool, or urgent need to defecate,anaemia, fatigue, fever, or loss of appetite,cramping or weight loss
+esophagitis,Pain in the chest or upper abdomen,Paincan occur while swallowing, heartburn, belching, nausea, regurgitation, or vomiting,difficulty swallowing or irritation, coughing
+cre infection, blood infections, wound infections, urinary tract infections and pneumonia
+bone cancer ,Pain in the bones or joints, bone fracture, feeling tired, limping, swelling, or weight loss
+pericoronitis,pericoronitis,dull pain,mild discomfort,bad taste in the mouth,swollen gum in the affected area.severe pain that can cause loss of sleep,swelling on the affected side of the face,discharge of pus,pain when swallowing,swollen lymph nodes under the chin,fever
+iron overload,hepatitis a,cancer,anemia,viral hepatitis,amenorrhea,iron overload,cirrhosis,liver disease,
+gout,Pain  in the joints, ankle, foot, knee, or toe, lumps, stiffness, or swelling, physical deformity or redness
+Coccydynia,coccydynia,pain, local tenderness,
+Listeria,fever,diarrhea, headache, stiff neck, confusion, loss of balance, and convulsions ,
+microcephaly, delayed development, failure to thrive, learning disability, short stature, or slow growth, hyperactivity, impulsivity, or irritability, misshapen face, hearing loss, intellectual disability, malnutrition, poor coordination, speech impairment, or vision disorder
+heterochromia iridis,heterochromia iridis,mismatched eye color
+Psoriasis,Pain in the joints, rashes, dryness, fissures, flakiness, peeling, small bump, thickness, or redness,depression, inflamed tendons, itching, joint stiffness, plaque, or small dents in nails
+atopic dermatitis, rashes, dryness, flakiness, bumps, fissures, peeling, or redness,itching
+contact dermatitis,Pain in the skin,rashes, redness, blister, fissures, hives, peeling, or ulcers, itching or swelling
+leukemia,Pain in the bones or joints, dizziness, fatigue, fever, or loss of appetite, bleeding, easy bruising, frequent infections, mouth ulcer, nosebleed, pallor, red spots on skin, shortness of breath, swollen lymph nodes, unintentional weight loss, or weakness
+dry mouth,drinking enough fluids, sleeping with mouth open, dry hot weather, eating dry foods or medication side effects
+seborrheic dermatitis, rashes, dryness, flakiness, peeling, or redness,dandruff or itching
+scoliosis,scoliosis,Pain in the back, leaning to one side, muscle spasms, physical deformity, or uneven waist
+Anaphylaxis,anaphylaxis, fainting, light-headedness, low blood pressure, dizziness, or flushing,difficulty breathing, rapid breathing, shortness of breath, or wheezing,hives, swelling under the skin, blue skin from poor circulation, or rashes, nausea or vomiting,fast heart rate, feeling of impending doom, itching, tongue swelling, difficulty swallowing, facial swelling, impaired voice, mental confusion, or nasal congestion
+scabies,scabies, bumps or redness,itching or skin burrow
+vitamin d deficiency,Pain in the muscles, fatigue or muscle weakness
+Melanoma, bigger mole diameter, darkening of the skin, mole color changes, or skin mole with irregular border
+histoplasmosis ,Fever,Cough,Fatigue (extreme tiredness),Chills,Headache,Chest pain,Body aches
+hepatocellular carcinoma,Pain in the abdomen, bloating or fluid in the abdomen, weight loss,liver failure, loss of appetite, or yellow skin and eyes
+cholangiocarcinoma,Pain in the abdomen, fever or weakness, dark urine,itching, pale faeces, weight loss, or yellow skin and eyes
+hand-foot-and-mouth syndrome,Pain can occur while swallowing, dehydration, fatigue, fever, loss of appetite, or malaise, blister, peeling, rashes, or red spots, canker sore, coughing, headache, irritability, or sore throat
+non-hodgkins lymphomas,Pain in the abdomen, anaemia, fatigue, or loss of appetite, symptoms, night sweats, swollen lymph nodes, or weight loss
+burning mouth syndrome,A burning or scalding sensation that most commonly affects your tongue, but may also affect your lips, gums, palate, throat or whole mouth,A sensation of dry mouth with increased thirst,Taste changes in your mouth, such as a bitter or metallic taste,Loss of taste,Tingling, stinging or numbness in your mouth
+sepsis,sepsis,low blood pressure, chills, dizziness, fatigue, fever, flushing, low body temperature, or shivering, altered level of consciousness or mental confusion,fast breathing or shortness of breath,delirium, fast heart rate, insufficient urine production, organ dysfunction, skin discolouration, or sleepiness
+salmonella food poisoning ,salmonellosis food poisoning,pain in the abdomen or muscles,chills, dehydration, fatigue, fever, or loss of appetite,diarrhoea or blood in stool,headache
+polio facts,fatigue, feeling faint, fever, or wasting away, muscle weakness, loss of muscle, or muscle quiver, headache, nausea, or slow growth
+Scoliosis,Pain  in the back, leaning to one side, muscle spasms, physical deformity, or uneven waist
+scalp psoriasis,scalp psoriasis,Scaly, red, bumpy patches,Silvery-white scales,Dandruff-like flaking,Dry scalp,Itching,Burning or soreness,Hair loss
+croup,croup,Cough can be barking, difficulty breathing, fast breathing, noisy breathing, shortness of breath, or wheezing, fatigue or fever, congestion or runny nose, hoarseness or impaired voice,agitation, drooling, phlegm, or sore throat
+Cholera,Pain  in the abdomen, nausea, severe diarrhoea, vomiting, or watery diarrhoea,dehydration, lethargy, or water-electrolyte imbalance
+vitiligo,vitiligo,loss of skin colour or premature hair whitening
+Smallpox,smallpox,Pain in the back or muscles,rashes, small bump, blister, scab, or scar, fever, malaise, or chills, headache or vomiting
+mumps,Pain in the abdomen, muscles, neck, pelvis, or testicle, chills, fatigue, fever, loss of appetite, or malaise, difficulty swallowing or soreness,dry mouth, headache, hearing loss, neck swelling, swollen lymph nodes, or swollen salivary glands
+Dysthymia,sadness, anger, general discontent, guilt, hopelessness, or loss of interest, excessive hunger, fatigue, or loss of appetite,excess sleepiness or insomnia, lack of concentration or slowness in activity,indecisiveness, irritability, or low self-esteem
+genital herpes,Pain in the penis or vagina,pain can occur during urination,genital sores, sensation of pins and needles, or skin rash
+leukemia,leukemia,Pain  in the bones or joints, dizziness, fatigue, fever, or loss of appetite, bleeding, easy bruising, frequent infections, mouth ulcer, nosebleed, pallor, red spots on skin, shortness of breath, swollen lymph nodes, unintentional weight loss, or weakness
+male breast cancer,male breast cancer,A painless lump or thickening in your breast tissue,Changes to the skin covering your breast, such as dimpling, puckering, redness or scaling,Changes to your nipple, such as redness or scaling, or a nipple that begins to turn inward,Discharge from your nipple
+chalazion, lump on the eyelid or eyelid redness,
+ankylosing spondylitis,Pain in the ankle, eyes, heel, hip, joints, lower back, middle back, neck, or shoulder,Pain can occur during rest,pain can be arthritic, blurred vision or sensitivity to light,inflammation f the eye's middle layer or redness, back joint dysfunction or stiffness,bone tissue formation, fatigue, hunched back, inflamed tendons, inflammatory bowel disease, physical deformity, or sleep disorder
+hantavirus pulmonary syndrome,Pain in the abdomen, chest, or muscles, fever, chills, fatigue, low blood pressure, or malaise diarrhoea, nausea, or vomiting, shortness of breath or fluid in the lungs, coughing or headache
+rickets,rickets,Pain in the bones, cramping, flaccid muscles, or muscle weakness, acquired deformity of chest and rib, bone fracture, bow legs, cavity, deformity of the skull, or slow growth
+Ebola ,Pain in the abdomen, chest, joints, or muscles, chills, dehydration, fatigue, fever, loss of appetite, malaise, or sweating, diarrhoea, nausea, vomiting, or vomiting blood, coughing up blood, eye redness, headache, mental confusion, red spots on skin, or sore throat
+molluscum contagiosum facts,scars, blister, rashes, stinging, pimples, or redness, itching, pus, or swelling
+hemorrhoids piles,Pain in the rectum,pain can occur while sitting, discomfort, itchiness, or swelling, blood in stool or constipation
+valley fever,Pain in the chest, chills, fatigue, fever, or night sweats, lumps or rashes, coughing, headache, shortness of breath, or weight loss
+erythema nodosum,Pain in the joints, fever or malaise, flat, firm, hot, red, and painful lumps or inflammatory nodules of the leg.
+cerebral palsy,cerebral palsy, difficulty walking, difficulty with bodily movements, muscle rigidity, permanent shortening of muscle, problems with coordination, stiff muscles, overactive reflexes, involuntary movements, muscle weakness, muscle spasms, or paralysis of one side of the body,: failure to thrive, learning disability, slow growth, or speech delay in a child,speech disorder or stuttering, constipation, difficulty raising the foot, difficulty swallowing, drooling, hearing loss, leaking of urine, paralysis, physical deformity, scissor gait, seizures, spastic gait, teeth grinding, or tremor
+dystonia,cramping or involuntary movements, eyelid twitching, torticollis, twisting movements, or voice box spasms
+anorexia nervosa,anorexia nervosa,dehydration, dizziness, fainting, fatigue, low blood pressure, low body temperature, osteoporosis, water-electrolyte imbalance, or feeling cold,binge eating, compulsive behaviour, hyperactivity, impulsivity, or social isolation,anxiety, apprehension, or guilt,underweight, weight loss, or extreme weight loss and thinness, delayed puberty or slow growth, irregular menstruation or absence of menstruation, constipation or vomiting,brittle nails, bruising, depression, dieting, dry hair, dry skin, headache, sensitivity to cold, or slow heart rate
+c-reactive protein test crp,unexplained exhaustion,pain,muscle stiffness, soreness, and weakness,low-grade fever,chills,a headache,nausea, loss of appetite, and indigestion,difficulty sleeping or insomnia,unexplained weight loss,high fever,rapid heart rate,uncontrollable sweating, chills, or shaking,uncontrollable or persistent vomiting, retching, or diarrhea,difficulty breathing,rash or hives,parched lips, mouth, and skin,dizziness or lightheadedness,a severe headache, body pain, stiffness, or soreness,loss of consciousness
+optic neuritis,optic neuritis,Pain in the eyes, blurred vision, vision disorder, inability to distinguish certain colours, partial loss of vision, or vision loss, headache
+sleepwalking,sleepwalking, inability to recall sleepwalking after awakening, excessive daytime sleepiness, falling, or fatigue
+Myocarditis,Pain  in the chest, dizziness, fatigue, or malaise,abnormal heart rhythm, murmur, or palpitations, fast breathing, shortness of breath, or shortness of breath on lying down,swelling in extremities
+pericarditis,Pain  in the chest, fatigue or fever, chest pressure or shortness of breath
+yaws,yaws,Pain  in the bones or joints, rashes, small bump, ulcers, or scar, malaise, swelling, or swollen lymph nodes
+astigmatism ,blurred vision, eye strain, or headache
+osgood-schlatter disease,Pain  in the knee or leg below the knee, limping or lump below knee
+herniated disc,herniated disc,Pain in the arm, back, foot, or leg, muscle weakness, muscle spasms, or overactive reflexes, leg numbness, pins and needles, or uncomfortable tingling and burning, foot numbness, hand numbness, or neck stiffness
+pseudoxanthoma elasticum,growth of yellowish bumps on the skin of the neck, under the arms, or in the groin area; reduced vision; periodic weakness in the legs (claudication); or bleeding in the gastrointestinal tract, particularly the stomach
+claudication,Pain when exercising,Intermittent pain,Pain when at rest,Discolored skin or ulcerations,An aching or burning feeling,Weakness of your legs or arms,Cold feet
+melasma,melasma,darkening of the skin
+iritis,iritis,Pain in the eyes,blurred vision, seeing spots, sensitivity to light, or vision loss,eye redness, leaked fluid out of blood vessels or an organ, or swelling
+tennis elbow lateral epicondylitis,Pain in the elbow or muscles, swelling or tenderness
+takayasu disease,Fatigue,Unintended weight loss,Muscle and joint aches and pains,Mild fever, sometimes accompanied by night sweats,Weakness or pain in your limbs with use,Lightheadedness, dizziness or fainting,Headaches or visual changes,Memory problems or trouble thinking,Chest pain or shortness of breath,High blood pressure,Diarrhea or blood in your stool,Too few red blood cells (anemia)
+Vasculitis,Pain  in the abdomen, joints, or muscles, fatigue or fever, rashes or ulcers,joint swelling, sensation of pins and needles, shortness of breath, or weight loss
+,bone spurs,bone spurs,numbness in arms and legs,pain in extending and bending leg,pain in moving hips
+churg-strauss syndrome,fatigue, weight loss, nasal passage inflammation, numbness, and weakness.
+behcets syndrome,Pain in the eyes or joints,rashes that look like acne or red and tender lumps, blurred vision or sensitivity to light, mouth ulcer, genital ulcer, or eye redness
+scleroderma,Pain  in the joints, rashes, swollen blood vessels in the skin, or ulcers, acid reflux, change in facial expression at rest, chronic cough, difficulty swallowing, dry mouth, fatigue, headache, joint stiffness, raynaud's syndrome, sensitivity to cold, shortness of breath, tight and hardened fingers, or weight loss
+wegeners granulomatosis,Pain  in the joints,can be with blood, bleeding, congestion, or flattening of the nose, fatigue or fever, sinusitis or shortness of breath, blood in urine, hearing loss, kidney failure, mouth ulcer, or unintentional weight loss
+facial nerve problems,facial nerve problems, facial muscle paralysis, weakness, or twitching of the face, Dryness of the eye or the mouth, alteration of taste on the affected side, or even excessive tearing or salivation can be seen as well
+inflammatory bowel disease,Diarrheam,Fever and fatigue,Abdominal pain and cramping,Blood in your stool,Reduced appetite,Unintended weight loss
+mortons neuroma,Pain in the foot, pins and needles or reduced sensation of touch,lump in the sole of the foot or sensation of walking on a marble
+osteochondritis dissecans,osteochondritis dissecans,Pain,Swelling and tenderness,Joint weakness,Decreased range of motion
+heart valve disease,Shortness of breath , difficulty catching your breath,Weakness or dizziness, Discomfort in your chest,Palpitations, Swelling of your ankles, feet, or abdomen,Rapid weight gain
+aortic stenosis,Pain in the chest, fainting, fatigue, inability to exercise, or light-headedness,murmur or enlarged heart, chest pressure or shortness of breath
+meniere disease,vertigo or dizziness,feeling of fullness in the ear or ringing, hearing loss, imbalance, motion sickness, nausea, or rapid involuntary eye movement
+barretts esophagus,heartburn, indigestion, or regurgitation, chronic cough, hoarseness, or throat irritation
+ventricular septal defect,fatigue, inability to exercise, or sweating,murmur or enlarged heart,fast breathing or shortness of breath, baby feeding difficulties, blue skin from poor circulation, failure to thrive, or swelling
+deviated septum,deviated septum,pain in the sinuses, nasal bleeding, congestion, loss of smell, runny nose, or post-nasal drip, headache, mouth breathing, physical deformity, or snoring
+preeclampsia high blood pressure or fatigue,blurred vision, headache, nausea, swelling in extremities, or weight gain
+achalasia,achalasia,Pain  in the chest, heartburn or regurgitation, difficulty swallowing, difficulty belching, or weight loss
+gaucher disease, blood disorder,skeletal abnormalities,
+low blood pressure,Dizziness or lightheadedness,Fainting (syncope),Blurred vision,Nausea,Fatigue,Lack of concentration
+sickle cell,Pain  in the joints,Pain can be sudden in the chest, dizziness, fatigue, low oxygen in the body, or malaise, inability to make concentrated or dilute urine or blood in urine, abnormal breakdown of red blood cells, inflamed fingers or toes, pallor, shortness of breath, or yellow skin and eyes
+factitious disorders,factitious disorders,Extensive knowledge of medical terms and diseases,Vague or inconsistent symptoms,Conditions that get worse for no apparent reason,Conditions that don't respond as expected to standard therapies,Seeking treatment from many different doctors or hospitals, which may include using a fake name,Reluctance to allow doctors to talk to family or friends or to other health care professionals,Frequent stays in the hospital,Eagerness to have frequent testing or risky operations,Many surgical scars or evidence of numerous procedures,Having few visitors when hospitalized,Arguing with doctors and staff
+creutzfeldt-jakob disease,insomnia,depression,
+cauliflower ear,cauliflower ear,physical deformity, swelling, or bruising,
+Cryptosporidiosis,Watery diarrhea,Dehydration,Lack of appetite,Weight loss,Stomach cramps or pain,Fever,Nausea,Vomiting,
+pleurisy,pleurisy,Pain in the side part of the body,Pain  can occur in the chest while breathing, fast breathing, shallow breathing, or shortness of breath, dry cough or fever
+intussusception,intussusception,Pain in the abdomen, nausea, bloating, blood in stool, diarrhoea, inability to pass stool, or vomiting, fatigue, lethargy, or loss of appetite, cramping or lump in the abdomen, baby colic or crying
+icu psychosis,extreme excitement,anxiety,restlessness,hearing voices,clouding of consciousness,hallucinations,nightmares,paranoia,disorientation,agitation,delusions,abnormal behavior,fluctuating level of consciousness which include aggressive or passive behavior.
+atrial fibrillation,Pain in the chest, dizziness, fatigue, inability to exercise, or weakness, fast heart rate or palpitations, shortness of breath
+pulmonary embolism,Pain can occur in the chest while breathing, light-headedness or low oxygen in the body, fast heart rate or palpitations, fast breathing or shortness of breath,dry cough
+porphyria,porphyria,Pain in the abdomen, constipation, nausea, or vomiting
+Skin:rashes, blister, or darkening of the skin,nervous system dysfunction,water-electrolyte imbalance, weakness, pins and needles or sensitivity to light, anxiety, blood in urine, fast heart rate, itching, mental confusion, or seizures
+hydronephrosis,hydronephrosis,Pain in the abdomen or flank, insufficient urine production or blood in urine, high blood pressure
+cardiomyopathy hypertrophic,Pain  in the chest, dizziness, fatigue, or inability to exercise,enlarged heart, murmur, or palpitations, shortness of breath
+melas syndrome,brain dysfunction (encephalopathy) with seizures and headaches,as well as muscle disease with a build-up of lactic acid in the blood (a condition called lactic acidosis),temporary local paralysis (stroke-like episodes), and abnormal thinking (dementia)
+Encephalopathy, altered level of consciousness, amnesia, inability to speak or understand language, lack of concentration, mental confusion, or slowness in activity,problems with coordination, rhythmic muscle contractions, rhythmic muscle spasm, or overactive reflexes,fainting or fatigue,abnormal breathing pattern, coma, delirium, flapping hand tremor, personality change, rapid involuntary eye movement, or seizures with no outward symptoms
+mitochondrial disease,flaccid muscles, muscle weakness, problems with coordination, loss of muscle, or muscle quiver, nervous system dysfunction, fatigue, or inability to exercise,weak eye muscles or rapid involuntary movement,developmental disability, heart block, seizures, severe unintentional weight loss, or slow growth
+Pheochromocytoma, flushing, high blood pressure, sweating, dizziness, or fatigue,fast heart rate or palpitations, headache, anxiety, nausea, shortness of breath, tremor, or weight loss
+shigella infection, watery diarrhea ,Abdominal cramping, nausea, vomiting,blood or mucus in their stool,fever
+lymphedema,Pain in the arms or legs or skin,dimpled skin like an orange peel or rashes,swelling in extremities, frequent skin infections of affected limb, swollen lymph nodes, or water retention
+paroxysmal supraventricular tachycardia,Pain in the chest, fainting, fatigue, light-headedness, or sweating, fast heart rate or shortness of breath
+fibrocystic breast condition,fibrocystic breast condition,discomfort or lumps,change in breast texture or swelling
+leighs syndrome, Developmental delay or regression,Nystagmus,Ophthalmoparesis,Optic atrophy,Ataxia,Dysphagia,Retinitis pigmentosa,Deafness,Distinct physical features,Hormone abnormalities resulting in short stature or hypertrichosis,Heart abnormalities (hypertrophic or dilated cardiomyopathy), diarrhea
+gerd, belching, heartburn, nausea, or regurgitation,bitter taste, discomfort in upper abdomen, or dry cough
+klinefelter syndrome, breast enlargement in men, delayed puberty, flaccid muscles, infertility, low-set ears, osteoporosis, reduced sex drive, small penis, or adhd predominantly inattentive
+arteriovenous malformation, dizziness, headache, or seizures
+hydrocephalus,abnormality walking, instability, problems with coordination, or stiff muscles,nausea or vomiting, blurred vision, bulging soft spot on a baby's head, delayed development, enlargement of head, headache, high pitched cry, irritability, leaking of urine, mental confusion, or sleepiness
+Peripheral vascular disease,peripheral vascular disease, pain in the buttocks or thigs, leg numbness or
+weakness,coldness in lower leg or foot,sores on toes,feet or legs,change in color of legs,hair loss,slower
+growth of toenails,shiny skin on legs,no pulse or weak pulse in legs or feet,erectile dysfunction in men.
+Gangrene,discoloured skin,pain followed by numbness and foul discharge,blue skin from poor
+circulation,discolouration, ulcers,fever, low blood pressure,creaky joints,foul-smelling
+discharge,pus,reduced sensation of touch.
+Heart attack,pressure,tightness, pain,squeezing or aching sensation in chest or
+arms,nausea,indigestion,heartburn,abdominal pain,shortness of breath,cold sweat,fatigue,light
+headedness,sudden dizziness.
+Claudication,pain in feet, calves, thighs, hips or buttocks,intermittent pain,discolored
+skin,ulcerations,aching or burning feeling,weakness of legs or arms,cold feet.
+High blood pressure, Hypertension, severe headache,fatigue or confusion,vision problems,chest
+pain,difficulty breathing,irregular heartbeat,blood in the urine,pounding in your chest, neck, or
+ears.
+Inflammatory breast cancer, inflammatory breast cancer,thickening of the skin of the
+breast,redness involving more than one-third of the breast,pitting or thickening of the skin of the
+breast,retracted or inverted nipple.
+Jaundice in adults,jaundice in adults, fatigue,abdominal pain,weight loss,vomiting,fever,pale
+stools,dark urine, yellow tinge to the skin and the whites of the eyes.
+Anaphylaxis, skin rashes,itching,hives,swelling of the lips,tongue or throat,shortness of breath,
+trouble breathing,wheezing,dizziness or fainting,stomach pain,vomiting,diarrhea.
+Adenoid and tonsils, swelling of the tonsils,redder than normal tonsils,white or yellow coating on
+the tonsils,slight change in the voice due to swelling,sore throat sometimes accompanied by ear
+pain,uncomfortable or painful swallowing,swollen lymph nodes in the neck,fever.
+Benign prostatic hyperplasia,benign prostatic hyperplasia, frequent or urgent need to
+urinate,increased frequency of urination at night,difficulty starting urination,weak urine stream
+or a stream that stops and starts,dribbling at the end of urination,inability to completely empty
+the bladder.
+Anal fissure,anal fissure, pain during bowel movements,pain after bowel movements that can last
+up to several hours,bright red blood on the stool or toilet paper after a bowel movement,visible
+crack in the skin around the anus.
+Frostbite,frostbite, cold skin and a prickling feeling,numbness,grayish-yellow skin,hard or waxy-
+looking skin,clumsiness due to joint and muscle stiffness,blistering after rewarming, in severe
+cases.
+
+
+seasonal affective disorder,anxiety, apathy, general discontent, loneliness, loss of interest, mood swings, or sadness, excess sleepiness, insomnia, or sleep deprivation,appetite changes or fatigue,irritability or social isolation,depression, lack of concentration, or weight gain
+degenerative disc,Pain  in the legs, thighs and buttocks that worsens with standing, lower back, or neck, pins and needles or reduced sensation of touch, muscle spasms, nerve injury, physical deformity, or stiffness
+
+
+attention deficit hyperactivity disorder , aggression, excitability, fidgeting, hyperactivity, impulsivity, irritability, lack of restraint, or persistent repetition of words or actions,absent-mindedness, difficulty focusing, forgetfulness, problem paying attention, or short attention span,anger, anxiety, boredom, excitement, or mood swings,depression or learning disability
+posttraumatic stress disorder,agitation, irritability, hostility, hypervigilance, self-destructive behaviour, or social isolation, flashback, fear, severe anxiety, or mistrust,loss of interest or pleasure in activities, guilt, or loneliness,insomnia or nightmares, emotional detachment or unwanted thoughts
+renal artery stenosis,renal artery stenosis,High blood pressure that's difficult to treat,A whooshing sound as blood flows through a narrowed vessel (bruit), which your doctor hears through a stethoscope placed over your kidneys. Low protein levels in the urine or other signs of abnormal kidney function,Worsening kidney function during treatment for high blood pressure,Fluid overload and swelling in your body's tissues,Treatment-resistant heart failure
+Scleroderma,Pain in the joints,rashes, swollen blood vessels in the skin, or ulcers,acid reflux, change in facial expression at rest, chronic cough, difficulty swallowing, dry mouth, fatigue, headache, joint stiffness, raynaud's syndrome, sensitivity to cold, shortness of breath, tight and hardened fingers, or weight loss
+Laryngitis,Cough can be chronic or dry Throat dryness, frequent clearing, or soreness, fever or malaise, congestion or runny nose, impaired voice or hoarseness, phlegm, sleeping difficulty, or swollen lymph nodes
+infectious mononucleosis,infectious mononucleosis,Pain can occur while swallowing, fatigue, fever, chills, malaise, or body ache,sore throat, swollen lymph nodes, swollen tonsils, headache, or nausea
+marfan syndrome,Pain in the back,mitral valve prolapse or murmur, abnormally raised roof of the mouth or crowded teeth, blurred vision or nearsightedness, bulging chest or sunken chest,abnormally long fingers, collapsed lung, disproportionately long arms and legs, double jointed, fatigue, flat feet, scoliosis, small pupils, stretch marks, or tall and slender build
+aortic dissection,Pain in the abdomen or middle back, dizziness, fainting, or low blood pressure, acute severe chest pain, nausea, or shortness of breath
+optic neuritis,Pain  in the eyes, blurred vision, vision disorder, inability to distinguish certain colours, partial loss of vision, or vision loss, headache
+canavan disease, intellectual disability, loss of previously acquired motor skills, feeding difficulties, abnormal muscle tone (i.e., floppiness or stiffness; hypotonia), poor head control,megalocephaly (abnormally enlarged head), Paralysis, blindness, or seizures
+trigeminal neuralgia,Pain in the mouth and face, over sensitivity or uncomfortable tingling and burning, paroxysmal attack of facial pain, severe facial pain, sharp facial pain, unilateral facial pain, or muscle spasms
+phlebitis,Pain in the arm or leg, redness or swollen blood vessels in the skin, swelling, tenderness, warmth of the affected area, or fever
+deep vein thrombosis,Pain in the calf, foot, or leg, swelling in extremities, tenderness, or warm skin,
+edema,swollen, stretched, and shiny skin,skin that retains a dimple after being pressed for a few seconds,puffiness of the ankles, face, or eyes,aching body parts and stiff joints,weight gain or loss,fuller hand and neck veins,higher pulse rate and blood pressure,headache,abdominal pain,changes in bowel habits,nausea and vomiting,confusion and lethargy,visual abnormalities
+cardiomyopathy dilated,
+ tuberculosis,Pain in the chest,Pain can occur while breathing,can be chronic or with blood, fatigue, fever, loss of appetite, malaise, night sweats, or sweating, loss of muscle, phlegm, severe unintentional weight loss, shortness of breath, or swollen lymph nodes
+smallpox,Pain  in the back or muscles, rashes, small bump, blister, scab, or scar, fever, malaise, or chills, headache or vomiting
+fecal incontinence,fecal incontinence,Diarrhea,Constipation,Gas and bloating
+pick disease,Act aggressively toward others,Be uninterested in everyday activities,Be very aware of everything you do all the time,Feel irritable or agitated,Have drastic and quick mood swings,Have trouble feeling warmth, sympathy, or concern for others,Have trouble with unplanned activities,Make rash decisions,Repeat actions over and over,Say and do inappropriate things
+cushings syndrome,excess sweating, excessive hairiness, excessive hunger, fatigue, flushing, high blood pressure, or osteoporosis, abnormal pad of fat between the shoulder blades, acne, darkening of the skin, stretch marks, or thinning, muscle weakness or loss of muscle, anxiety, depression, easy bruising, hair loss, headache, infertility, insomnia, irritability, pot belly, reduced sex drive, round face from gradual swelling, swelling in extremities, or weight gain
+hyponatremia,dizziness, fatigue, lethargy, malaise, or thirst,headache, insufficient urine production, mental confusion, or nausea
+tetrahydrobiopterin deficiency,tetrahydrobiopterin deficiency,intellectual disability, progressive problems with development,movement disorders,difficulty swallowing,seizures,behavioral problems,an inability to control body temperature.
+kleine-levin syndrome,flu-like symptoms.Excessive food intake, irritability, childishness, disorientation, hallucinations, abnormally uninhibited sex drive
+blood in semen,intellectual disability, progressive problems with development,movement disorders,difficulty Painful urination,Pain with ejaculation,Blood in urine,Lower back pain,Fever,Tenderness in the testes and/or scrotum,Swelling in the testes and/or scrotum,Swelling or tenderness in the groin areaswallowing,seizures,behavioral problems,an inability to control body temperature
+impingement syndrome,impingement syndrome,Pain in the shoulder, arm, or neck,limited range of motion or muscle weakness, joint stiffness or tenderness
+bleeding varices, bloating, blood in stool, dark stool from digested blood, or vomiting blood,bleeding, difficulty swallowing, enlarged veins around belly button, flapping hand tremor, or web of swollen blood vessels in the skin
+cardiomyopathy restrictive,Shortness of breath,Fatigue,Inability to exercise,Swelling of the legs and feet,Weight gain,Nausea, bloating, and   poor appetite,Palpitations,Fainting,Chest pain or pressure
+amyloidosis,Pain in the abdomen, foot, or hands, fatigue, feeling full sooner than normal, or nervous system dysfunction, pins and needles or reduced sensation of touch, enlarged heart or irregular heart rate, shortness of breath or shortness of breath on lying down,rash of small purplish spots or red spots, abnormally large tongue, bruising, carpal tunnel syndrome, diarrhoea, generalised body swelling, impaired voice, organ dysfunction, puffy eyes, swelling in extremities, tingling feet, or weight loss
+cauda equina syndrome,Severe low back pain,Motor weakness, sensory loss, or pain in one, or more commonly both legs,Saddle anesthesia,Recent onset of bladder dysfunction,Recent onset of bowel incontinence,Sensory abnormalities in the bladder or rectum,Recent onset of sexual dysfunction,A loss of reflexes in the extremities,Recent violent injury to the back,Recent lumbar spine surgery,A history of cancer,Recent severe infection
+devics syndrome,temporary loss of eyesight affecting at least one eye, with a risk of permanent vision loss,aswelling of the optic disc,pain in the eye that generally gets worse with movement, and tends to become more severe after a week then resolve in a few days,reduced sensitivity to color,People who develop optic neuritis should not drive a vehicle due to reduced vision,altered sensations, with sensitivity to temperature, numbness, tingling, and a sensation of coldness or burning,weak, heavy limbs, sometimes leading to total paralysis,changes in urination patterns, including urinary incontinence, difficulty urinating, and more frequent urination,fecal incontinence or constipation
+brain hemorrhage,weakness of one side of the body or paralysis of one side of the body,bleeding, decreased level of consciousness, altered level of consciousness, difficulty speaking, ekg abnormalities, fainting, headache, seizures, sensitivity to light, or unequal pupils
+arsenic poisoning,drowsiness,headaches,confusion,severe diarrhea,a metallic taste in the mouth and garlicky breath,excess saliva,problems swallowing,blood in the urine,cramping muscles,hair loss,stomach cramps,convulsions,Excessive sweating,vomiting,diarrhea
+deafness,deafness, hearing problem, ringing in the ears, sensitivity to sound, social isolation, or speech delay in a child
+polycystic ovary,abnormal menstruation, absence of menstruation, heavy menstruation, irregular menstruation, short and light menstruation, or spotting,obesity, overweight, or weight gain, acne or oily skin,infertility, dark patches of skin in folds and creases, depression, inappropriate male features, loss of scalp hair, or unwanted hair
+amenorrhea,Milky nipple discharge,Hair loss,Headache,Vision changes,Excess facial hair,Pelvic pain,Acne
+febrile seizures,febrile seizures, fever,Lose consciousness,,Shake or jerk arms and legs
+post-polio syndrome,muscle weakness, unaccustomed fatigue , muscle atrophy, scoliosis,visible muscle atrophy, wasting
+Narcolepsy, loss of muscle control, muscle paralysis, or muscle weakness, daytime sleepiness, fatigue, or hallucination
+abdominal aortic aneurysm,Pain  in the abdomen, back, or flank, nausea or pulsating abdominal mass
+ascites,Abdominal pain, discomfort, and bloating, increased abdominal girth and size
+Arachnoiditis,numbness, tingling, or a pins-and-needles feeling,crawling sensation on the skin,muscle cramps or spasms,weakness,trouble walking,severe headaches,vision problems,hearing problems
+guillain-barre syndrome,Pain in the muscles, muscle weakness, abnormality walking, problems with coordination, or weakness of the arms and legs, fatigue or high blood pressure,abnormal heart rhythm or fast heart rate, difficulty raising the foot, difficulty speaking, difficulty swallowing, facial muscle weakness, shortness of breath, slow reflexes, uncomfortable tingling and burning, or urinary retention
+tourette syndrome,compulsive behaviour, impulsivity, hyperactivity, meaningless repetition of own words, nonsense word repetition, repetitive movements, swearing uncontrollably, or lack of restraint,tic, difficulty with bodily movements, increased muscle activity, involuntary movements, involuntary muscle contraction, or jerking muscle spasms, anxiety or apprehension,coughing, eyelid twitching, frequent throat clearing, learning disability, repetitive blinking of eyes, or stuttering
+vasculitis,Pain in the abdomen, joints, or muscles, fatigue or fever, rashes or ulcers, joint swelling, sensation of pins and needles, shortness of breath, or weight loss
+Rhabdomyolysis,Pain in the muscles, fatigue, inability to exercise, water-electrolyte imbalance, or body ache, cramping, muscle weakness, or delayed onset muscle soreness, dark urine or insufficient urine production, kidney damage or muscle stiffness
+crohns disease,Pain in the abdomen, lower abdomen, or rectum,pain can be mild or severe, bloating, blood in stool, bowel obstruction, diarrhoea, nausea, vomiting, or flatulence, fatigue, fever, or loss of appetite, anal fissure, cramping, depression, flare, mouth ulcer, slow growth, or weight loss
+ramsay hunt syndrome,A painful red rash with fluid-filled blisters on, in and around one ear,Facial weakness or paralysis on the same side as the affected ear
+premenstrual dysphoric disorder,Pain  in the breast, muscles, or pelvis,mood swings, sadness, anger, anxiety, hopelessness, or panic attack, excess sleepiness or insomnia, irritability or crying, appetite changes, bloating, depression, diminished interest in usual activities, economic or social dysfunction due to symptoms, fatigue, feeling overwhelmed, food craving, headache, increased sensitivity to rejection, lack of concentration, self-critical thoughts, water retention, or weight gain
+dystonia,cramping or involuntary movements, eyelid twitching, torticollis, twisting movements, or voice box spasms
+gastritis,gastritis,Pain in the abdomen or upper abdomen, belching, heartburn, indigestion, nausea, or vomiting,loss of appetite
+complex regional pain syndrome,Pain in the nerves, arms or legs, back, foot, or hands,Pain can be chronic, rhythmic muscle contractions, loss of muscle, or muscle spasms, pins and needles, sensitivity to pain, or uncomfortable tingling and burning, nervous system dysfunction or sweating, depression, headache, redness, stiffness, swelling, or tenderness
+cyclosporiasis,Watery diarrhea,Loss of appetite,Weight loss,Cramping,Bloating,Increased gas,Nausea,Fatigue
+myxedema coma,Weakness,Confusion or non-responsiveness,Feeling cold,Low body temperature,Swelling of the body, especially the face, tongue, and lower legs,Difficulty breathing
+turner syndrome,abnormalities in development of reproductive organs, delayed puberty, short stature, or underdeveloped jaw,high blood pressure or osteoporosis,congenital heart defect or narrowing of the aorta,absence of menstruation, dysplastic nail, female infertility, recurrent ear infections, widely spaced nipples, abnormally raised roof of the mouth, celiac disease, elbow deformity, hearing loss, increased number of moles, kidney malformation, obesity, puffy hands and feet at birth, scoliosis, underactive thyroid, vision disorder, or webbed neck
+carotid artery disease,carotid artery disease,Sudden loss of vision, blurred vision, or difficulty in seeing out of one or both eyes,Weakness, tingling, or numbness on one side of the face, one side of the body, or in one arm or leg,Sudden difficulty in walking, loss of balance, lack of coordination,
+huntington disease,amnesia, delusion, lack of concentration, memory loss, mental confusion, slowness in activity, or difficulty thinking and understanding,abnormality walking, increased muscle activity, involuntary movements, problems with coordination, loss of muscle, or muscle spasms, compulsive behaviour, fidgeting, irritability, or lack of restraint,delirium, depression, hallucination, or paranoia,anxiety, apathy, or mood swings, difficulty speaking, tremor, or weight loss
+whiplash,Pain in the neck, arm, back, muscles, or shoulder, dizziness or vertigo, difficulty focusing, headache, muscle spasms, neck stiffness, nerve injury, sensation of pins and needles, sleep disorder, or tenderness
+binswangers disease,mental deterioration, language disorder, transient ischemic attack, muscle ataxia, and impaired movements including change of walk, slowness of movements, and change in posture, multiple falls, epilepsy, fainting, and uncontrollable bladder.
+pinworm infection,itch,pinworm infection,Itching of the anal or vaginal area,Insomnia, irritability and restlessness,Intermittent abdominal pain and nausea
+ehlers-danlos syndrome,Pain in the joints or muscles, bleeding, double jointed, easy bruising, heart murmur, joint dislocation, muscle weakness, physical deformity, poor wound healing, or wrinkles
+carcinoid syndrome,Abdominal pain,Diarrhea,Nausea, vomiting , bowel blockage,Rectal bleeding,Rectal pain,redness or a feeling of warmth in your face and neck (skin flushing)
+retinoblastoma,retinoblastoma,Eyes white pupil, lazy eye, rapid involuntary movement,  redness, blurred vision
+respiratory syncytial virus,
+farsightedness, blurred vision, vision disorder, or distorted vision, eye strain or squinting,headache
+internal bleeding,abdominal pain,shortness of breath,chest pain,dizziness,bruising around your navel or on the sides of your abdomen,nausea,vomiting,blood in urine.
+premenstrual syndrome,premenstrual syndrome,Pain in the breast, abdomen, back, joints, muscles, or pelvis,constipation, diarrhoea, nausea, passing excessive amounts of gas, or water retention,appetite changes, excessive hunger, fatigue, or loss of appetite,anxiety or general discontent,abdominal fullness or cramping, acne, depression, headache, insomnia, irritability, lack of concentration, moodiness, painful menstruation, or weight gain
+angina symptoms,Pain  in the chest, jaw, or neck,dizziness, fatigue, inability to exercise, light-headedness, or sweating, heartburn, indigestion, or nausea, rapid breathing or shortness of breath,anxiety, chest pressure, or fast heart rate
+down syndrome,delayed development, learning disability, short stature, or speech delay in a child, lazy eye or spots, difficulty thinking and understanding, brachycephaly, upslanting palpebral fissures, atlantoaxial instability, bent little finger, congenital heart disease, displacement of the tongue, excess skin on the back of the neck, flaccid muscles, hearing loss, immune deficiency, low-set ears, mouth breathing, obesity, obstructive sleep apnea, polycythemia, seborrheic dermatitis, single line on palm, thickening of the skin of the palms and soles, thyroid disease, or vision disorder
+trisomy 18 edwards syndrome, abnormally small head, absence of one or both testes, birth defect with intestinal organs outside of body, failure to thrive, low birth weight, short stature, or underdeveloped jaw,drooping of upper eyelid or wide spaced eyes, abnormal deviation of fingers, clenched hands, episodes of no breathing, groin hernia, kidney defects, low-set ears, single line on palm, or underside of foot is convex
+gestational diabetes,gestational diabetes, excessive hunger, excessive thirst, or fatigue,fetal macrosomia, frequent urination, or yeast infection
+insulin resistance, obesity, absence of menstruation, excessive hairiness, lipodystrophy, or skin tag
+addison disease,Pain in the abdomen or muscles, dehydration, dizziness, fainting, fatigue, light-headedness, loss of appetite, low blood pressure, low blood sugar, water-electrolyte imbalance, or sweating, nausea or vomiting,absence of menstruation, craving salty foods, darkening of the skin, excess urination, muscle weakness, reduced sex drive, or weight loss
+trichinosis,trichinosis,Pain in the abdomen or muscles, dehydration, dizziness, fainting, fatigue, light-headedness, loss of appetite, low blood pressure, low blood sugar, water-electrolyte imbalance, or sweating, nausea or vomiting, absence of menstruation, craving salty foods, darkening of the skin, excess urination, muscle weakness, reduced sex drive, or weight loss
+brain lesions,Headaches,Neck pain,stiffness,Nausea, vomiting, and lack of appetite,Vision changes or eye pain,Changes in mood, personality, behavior, mental ability, and concentration,Memory loss or confusion,Seizures,Fever
+stiff-person syndrome,muscle stiffness, rigidity, apainful spasms in the trunk and limbs
+mrsa infection,skin Swollen,Red,Painful,Filled with pus
+hypercalcemia,Pain in the abdomen or bones, dehydration, fatigue, loss of appetite, or thirst, constipation or nausea, excess urination, mental confusion, muscle weakness, or weight loss
+hashimotos thyroiditis,Skin dryness , roughness,hair loss or dryness,constipation, depression, enlarged thyroid, fatigue, joint stiffness, muscle weakness, puffy eyes, sensitivity to cold, slow heart rate, swelling in extremities, or weight gain
+constipation,Infrequent bowel movements, and small, hard-to-pass, stool, dehydration
+celiac disease,Pain in the abdomen or joints, belching, diarrhoea, fat in stool, heartburn, indigestion, nausea, vomiting, or flatulence, bone loss, fatigue, or malnutrition, delayed puberty or slow growth, cramping, itching, lactose intolerance, skin rash, or weight loss
+gallstones,Pain in the back or upper-right abdomen,pain can be severe,indigestion, nausea, or vomiting, cramping from gallstones or discomfort
+fabrys disease,Pain and burning,Small, dark red spots,Cloudy vision,Hearing loss,Ringing in the ears,Sweating less than normal,
+congenital heart disease,shortness of breath, cyanosis, fainting,[14] heart murmur, under-development of limbs and muscles, poor feeding or growth, or respiratory infections
+guinea worm disease, worm emerging from a skin blister, blister, ulcers, or hives, diarrhoea, nausea, or vomiting,fever or itching
+pot syndrome,dizziness, fatigue, inability to exercise, light-headedness, or fainting, fast heart rate, nausea, anxiety, or blurred vision
+anemia,anemia,dizziness, fatigue, light-headedness, or malaise, fast heart rate or palpitations, brittle nails, headache, pallor, shortness of breath, or weaknes
+pelvic inflammatory disease,pelvic inflammatory disease,Pain in the pelvis, abdomen, lower back, or vagina,Pain can occur during sexual intercourse or during urination, chills, fatigue, or fever,cervical motion tenderness, vaginal discharge, or vaginal odour, nausea or vomiting,cramping or painful menstruation
+bladder infection,bladder infection,Pain  in the bladder, groin, lower abdomen, or pelvis,pain in urination or during sexual intercourse, foul smelling urine, frequent urination, bladder spasm, cloudy urine, dark urine, persistent urge to urinate, sense of incomplete bladder emptying, or blood in urine,fatigue, fever, or malaise, cramping or vaginal irritation
+anhrax,anthrax,Pain in the chest or muscles, blister, dark scab, small bump, or ulcers, fever or malaise,respiratory distress or shortness of breath, coughing, headache, itching, nausea, sore throat, or swollen lymph nodes
+gynecomastia,gynecomastia, breast enlargement, discomfort, or lumps,overweight
+appendicitis,appendicitis,Pain in the abdomen, mid-abdomen, or right lower abdomen, pain can be dull, sharp, mild, or severe, chills, fever, loss of appetite, or malaise,diarrhoea, nausea, or vomiting, abdominal pain migration
+congestive heart failure ,Pain in the chest,cough can be dry or with phlegm, dizziness, fatigue, inability to exercise, or loss of appetite, fast breathing, shortness of breath at night, shortness of breath on exercise, or shortness of breath on lying down, water retention or bloating,excess urination at night, palpitations, swollen feet, swollen legs, or weight gain
+charcot-marie-tooth-disease,abnormality walking, flaccid muscles, instability, lack of coordination, muscle weakness, rhythmic muscle contractions, or loss of muscle, hammer toe, high foot arches, constantly walking on tip toe, or difficulty raising the foot,pins and needles or reduced sensation of touch,hand contractures, slow reflexes, or tremor
+hiatal hernia,Pain in the abdomen or chest,belching, heartburn, hiccup, nausea, regurgitation, or vomiting, throat irritation
+cystinuria,blood in the urine,severe pain in the side or the back, almost always on one side,nausea and vomiting,pain near the groin, pelvis, or abdomen,
+williams syndrome, wide mouth, small upturned nose, widely spaced teeth, and full lips,colic or feeding problems,attention deficit hyperactivity disorder (ADHD),learning disorders,onnward bend of pinky finger,specific phobias,short stature,speech delays
+dyslexia, difficulty memorising, difficulty spelling, or difficulty thinking and understanding, learning disability or speech delay in a child, delayed reading ability, headache, or speech impairment
+irritable bowel syndrome,Pain  in the abdomen,Pain can be recurrent in the abdomen, change in bowel habits, constipation, diarrhoea, inability to empty bowels, indigestion, nausea, passing excessive amounts of gas, or urgent need to defecate, cramping or discomfort, anxiety, depression, discomfort, loss of appetite, or symptoms alleviated by defecation
+loeys-dietz syndrome,Widely-spaced eyes (hypertelorism),White of the eye looks blue or gray,Wide or split uvula ,Cleft palate,Instability or malformation of the spine in the neck,
+wolff-parkinson-white syndrome,
+atrial fibrillation,fast heart rate, irregular heart rate, or palpitations,dizziness or light-headedness, shortness of breath
+erythema nodosum,Pain in the joints, fever or malaise, flat, firm, hot, red, and painful lumps or inflammatory nodules of the leg
+pinched nerve ,Numbness or decreased sensation,Sharp, aching or burning pain,Tingling, pins and needles sensations (paresthesia),Muscle weakness,hand  fallen asleep
+pregnancy placenta previa,vaginal bleeding
+fish odor syndrome trimethylaminuria,
+brain aneurysm,brain aneurysm,Headache,nausea or vomiting, bleeding, dizziness, light sensitivity, headache, stiff neck, or thunderclap headache
+emphysema lung condition,frequent lung infections,mucus,wheezing,reduced appetite,weight loss,fatigue,blue-tinged lips or fingernail beds, or cyanosis,anxiety and depression,sleep problems,morning headaches
+endometriosis,endometriosis,Pain in the lower abdomen, lower back, pelvis, rectum, or vagina,pain can occur during sexual intercourse or while defecating, abnormal menstruation, heavy menstruation, irregular menstruation, painful menstruation, or spotting, constipation or nausea, abdominal fullness or cramping, infertility
+parry-romberg syndrome, connective tissue, (fat, fascia, cartilage, bones) , muscles of one side of the face.
+trigeminal neuralgia,Pain in the mouth and face, over sensitivity or uncomfortable tingling and burning, paroxysmal attack of facial pain, severe facial pain, sharp facial pain, unilateral facial pain, or muscle spasms
+vitiligo,loss of skin colour , premature hair whitening
+sinus headache,sinus headache,Pain in the face, sinuses, back of the eyes, ear, or forehead, congestion, distorted sense of smell, itching, loss of smell, runny nose, or sneezing,fatigue, fever, or malaise, tenderness or swelling, sinus pressure, headache, inflammation of ear, mouth breathing, phlegm, pus, sleeping difficulty, or throat irritation
+trigger finger,trigger finger,finger catching with sudden pop release, physical deformity, stiffness, lump, swelling, or tenderness
+sore throat pharyngitis,difficulty in swallowing,red throat with white or gray patches,swollen lymph nodes,fever,chills,loss of appetite,nausea,unusual taste in the mouth
+cluster headaches,cluster headaches,drooping of upper eyelid, small pupils, watery eyes, puffy eyes, or redness, flushing, nervous system dysfunction, or sweating,headache, agitation, or runny nose
+small pupils, watery eyes, puffy eyes, or redness, flushing, nervous system dysfunction, or sweating, headache, agitation, or runny nose
+fragile x syndrome,aggression, hyperactivity, impulsivity, nonsense word repetition, repetitive movements, self-harm, or persistent repetition of words or actions, learning disability or speech delay in a child, flaccid muscles or problems with coordination, large ears, speech impairment, anxiety, double jointed, enlarged head, enlarged testicles, flat feet, lazy eye, long thin face, prominent jaw, scoliosis, single line on palm, sleep disorder, sunken chest, or tremor
+ovarian cysts,Pain in the back, pelvis, or side part of the body,pain can occur during sexual intercourse, abnormal menstruation, irregular menstruation, painful menstruation, or spotting, cramping or excessive hairiness
+chronic obstructive pulmonary disease,Cough can be dry or with phlegm, frequent respiratory infections, shortness of breath, or wheezing, fatigue or inability to exercise, chest pressure, loss of muscle, or weight loss
+narcolepsy,narcolepsy, loss of muscle control, muscle paralysis, or muscle weakness, daytime sleepiness, fatigue, or hallucination
+alport syndrome, swelling (edema), bone weakening,joint pain (osteodystrophy)
+syphilis ,painless ulcers, sores, vaginal discharge, or wart-like growths on genitals, rashes, small bump, or ulcers, fatigue, itching, mouth ulcer, rash on the palms and soles, rectal lining inflammation, sore throat, swollen lymph nodes, or weight loss
+lactose intolerance,lactose intolerance,Pain a in the abdomen. belching, bloating, diarrhoea, fat in stool, indigestion, flatulence, or stomach cramps,baby colic or malaise
+melanoma, bigger mole diameter, darkening of the skin, mole color changes, or skin mole with irregular border
+primary biliary cirrhosis ,
+shingles,Pain in the skin, blister, scab, ulcers, or redness,over sensitivity or pins and needles, painful red blister rash in linear distribution, burning sensation, fatigue, or itching
+spina bifida ,bowel obstruction, constipation, or leaking of stool muscle weakness, stiff muscles, or overactive reflex, birthmark, brown spot on skin, or skin cyst, bed wetting, leaking of urine, or urinary tract infection,hunched back, intellectual disability, nerve injury, paralysis, paralysis of the body's lower half, or physical deformity
+anencephaly,absence of all or part of the brain
+graves disease,excess sweating, fatigue, heat intolerance, or high blood pressure, fast heart rate, irregular heart rate, or palpitations, anxiety or nervousness, abnormal protrusion of eyes or puffy eyes, absence of menstruation, diarrhoea, enlarged thyroid, hair loss, hand tremor, insomnia, irritability, muscle weakness, puffy skin changes on the shin, or weight loss
+pernicious anemia,fatigue or light-headedness, inflamed stomach, pallor, sensation of pins and needles, shortness of breath, or weight loss
+vulvodynia,Pain in the vagina or pelvis, pain can occur during sexual intercourse, vaginal dryness, vaginal itching, or vulval inflammation, sexual dysfunction or uncomfortable tingling and burning
+typhoid fever,typhoid fever,Pain in the abdomen or muscles,bloating, constipation, diarrhoea, nausea, or vomiting,fatigue, fever, chills, loss of appetite, or malaise, headache, muscle weakness, rash with small red dots, skin rash, or weight loss,high fever, headache, stomach pain, weakness, vomiting and loose stools
+gastroenteritis stomach flu,Pain in the abdomen, diarrhoea, stomach cramps, belching, gagging, indigestion, nausea, vomiting, or flatulence, chills, dehydration, fatigue, fever, light-headedness, or loss of appetite,fast heart rate, headache, insufficient urine production, weakness, or weight loss
+q fever,Pain in the abdomen or muscles, fatigue, high fever, malaise, chills, or night sweats, coughing, headache, nausea, or shortness of breath
+corneal disease,corneal disease,Pain,Blurred vision,Tearing,Redness,Extreme sensitivity to light,Corneal scarring
+teething,teething,drooling or dribbling, increased chewing, mood changes, irritability or crankiness, swollen gums,Crying, sleeplessness, restless sleep at night, and mild fever are also associated with teething
+rothmund-thomson syndrome,skin rash, sparse hair, malformed bones, abnormal clouding of the lenses of the eyes (juvenile cataracts), small stature,
+osteopenia,back pain, loss of height, a stooped posture and easily fractured bones.
+pubic lice crabs,Lots of itching in your genital area.
+kyphosis,kyphosis,Pain in the back or neck,instability or muscle weakness, physical deformity, compression fracture, falling, mobility limitation, short stature, or stiffness
+eustachian tube problems, ears may feel plugged or full,Sounds may seem muffled,may feel a popping or clicking sensation,pain in one or both ears,hear ringing in your ears ( tinnitus).
+meningitis,headache, stiff neck, confusion, and/or fever,sun-sensitive drugs photosensitivity to drugs,cancer,
+abscessed tooth,Pain  in the jaw,toothache, bad breath, dental cavities, or tooth loss, pus, fever, or swollen lymph nodes
+otitis externa,Pain in the ear,feeling of fullness in the ear, hearing loss, itching, redness, or tenderness
+chiggers bites,severe itching, swelling, and painful urination
+neutropenia,neutropenia,fever, mouth ulcer, sore throat, or susceptibility to infection,
+treacher collins syndrome, cleft palate, failure of teeth to develop normally, or misaligned teeth,speech delay in a child or underdeveloped jaw, physical deformity, airway obstruction, cleft eyelid, difficulty swallowing, hearing loss, lazy eye, small ears, or snoring
+trichomoniasis,trichomoniasis,Pain in the abdomen,pain can occur during sexual intercourse or during urination,cervix inflammation, vaginal discharge, vaginal inflammation, vaginal irritation, vaginal itching, vaginal odour, or vulval inflammation,
+stroke symptoms,difficulty walking, instability, paralysis with weak muscles, problems with coordination, stiff muscles, overactive reflexes, or paralysis of one side of the body, blurred vision, double vision, sudden visual loss, or temporary loss of vision in one eye, fatigue, light-headedness, or vertigo, difficulty speaking, slurred speech, or speech loss, pins and needles or reduced sensation of touch, muscle weakness or numbness
+neuropathic pain,sharp, dull, hot, cold, sensitive, itchy, deep, stinging, burning,pain with light touch
+primary sclerosing cholangitis,Pain in the upper right part of the abdomen,Fever,Chills,Night sweats,Enlarged liver,Enlarged spleen,Weight loss,Yellow eyes and skin (jaundice)
+hemophilia,hemophilia,Pain in the joints, bleeding, blood in stool, blood in urine, bruising, heavy or prolonged periods, internal bleeding, nosebleed, or swollen joint

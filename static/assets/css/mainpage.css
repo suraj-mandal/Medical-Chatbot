@@ -1,0 +1,184 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.brand-font {
+    font-size: 2em;
+}
+
+.nav-item-font {
+    font-size: 1.2em;
+}
+
+.navbar-custom {
+    -webkit-box-shadow: 0px 5px 26px -14px rgba(0,0,0,0.9);
+    -moz-box-shadow: 0px 5px 26px -14px rgba(0,0,0,0.9);
+    box-shadow: 0px 5px 26px -14px rgba(0,0,0,0.9);
+}
+
+/* styling the header */
+.header-height {
+    height: 70vh;
+}
+
+.header-bg {
+    background: linear-gradient(to bottom right, rgba(5, 114, 255, 0.9), rgba(2, 27, 121, 0.5)), url("../img/header-bg.jpg") no-repeat top center;
+    background-size: cover;
+}
+
+.header-color {
+    color: #fff;
+}
+
+.header-padding {
+    padding-top: 15vh;
+}
+
+.title {
+    font-size: 4em !important;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+
+.sub-title {
+    font-size: 1.7em;
+}
+
+.btn-general-style {
+    border-radius: 30px;
+    padding: 10px 30px 11px 30px;
+    cursor: pointer;
+    font-size: 1.2em;
+}
+
+.btn-f-style {
+    background: #ff1744;
+    border: none;
+    color: #fff;
+    font-weight: 700;
+    -webkit-box-shadow: -2px 18px 25px -21px rgba(255,0,21,1);
+    -moz-box-shadow: -2px 18px 25px -21px rgba(255,0,21,1);
+    box-shadow: -2px 18px 25px -21px rgba(255,0,21,1);
+}
+
+.btn-s-style {
+    border: 1.5px solid #fff;
+    background: transparent;
+    color: #fff;
+}
+
+/* Styling the search button area */
+
+.custom-m-top {
+    margin-top: 10vh;
+}
+
+.search-banner {
+    text-align: center;
+    font-weight: 900;
+    font-size: 3em;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.search-form {
+    width: 100%;
+}
+
+.search-area {
+    margin-top: 10vh;
+    margin-bottom: 100px;
+}
+
+.form-control-borderless {
+    border: none;
+}
+
+.form-control-borderless:hover, .form-control-borderless:active, .form-control-borderless:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+.card-custom {
+    -webkit-box-shadow: -1px 12px 72px -23px rgba(51,51,51,0.69);
+    -moz-box-shadow: -1px 12px 72px -23px rgba(51,51,51,0.69);
+    box-shadow: -1px 12px 72px -23px rgba(51,51,51,0.69);
+    border: none;
+}
+
+.search-btn-style {
+    padding: 10px 30px 11px 30px;
+    cursor: pointer;
+    font-size: 1em;
+    letter-spacing: 1.2px;
+    color: #fff;
+    background: linear-gradient(to bottom left, #ff00cc, #333399);
+    border: none;
+    border-radius: 30px;
+    font-weight: bolder;
+}
+/* styling the diseases section */
+.main-content {
+    min-height: 60vh;
+    width: 80%;
+    margin: 20px auto;
+}
+
+.content-banner {
+    margin-top: 10vh;
+    text-align: center;
+}
+
+.symptom-section {
+    padding: 50px;
+}
+
+.symptom-card-design {
+    margin: 30px 20px;
+    padding: 20px 50px;
+    font-size: 0.5em;
+    border-radius: 50px;
+    border: none;
+}
+
+.icon-styling {
+    color: #c91000;
+    transition: all ease-in 0.5s;
+}
+
+.icon-styling:hover {
+    color: #5b0011;
+}
+
+.disease-card-design {
+    margin: 30px 20px;
+    padding: 20px 50px;
+    font-size: 0.5em;
+    color: #fff;
+    border-radius: 50px;
+    border: none;
+    background-color: #0011c9;
+}
+
+.footer-custom-style {
+    background: #333;
+    margin: 50px 0 0 0;
+    padding: 10vh 10vw
+}
+
+.footer-content {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    font-weight: lighter;
+    font-size: 1.5rem;
+}

@@ -1,0 +1,23 @@
+
+
+Diagnosis of breast cancer requires identifying cancer cells in tissue specimens obtained by taking a sample of the growth -- also called a "mass" or "tumor" -- by the technique of biopsy. Since men have little breast tissue, cancers in male breasts are easily palpable (located by feel) and are often found on self-examination. Also, they are therefore easily accessible to biopsy. Fine needle aspiration or needle biopsy of a suspicious mass can usually establish a diagnosis. A doctor inserts a needle into the mass to withdraw tissue from the suspicious area. Microscopic examination of the tissue by a pathologist establishes the diagnosis.
+Other techniques that may be used to diagnose breast cancer in men include incisional (removing a portion of the suspicious tissue) or excisional (removing the mass in its entirety) biopsy of a breast mass. If nipple discharge is present, microscopic examination of a smear of the discharge can sometimes establish the diagnosis.
+
+
+Doctors carry out staging to determine the extent to which a cancer has spread within the body. Staging of breast cancer in men is carried out identically to the staging of breast cancer in women. Imaging studies such as X-rays, CT scans, magnetic resonance imaging (MRI), ultrasound, and bone scans may be performed to evaluate the presence and extent of metastatic disease once the initial diagnosis of breast cancer had been made. The American Joint Committee on Cancer (AJCC) TNM staging system takes into account the tumor size, lymph node involvement by cancer, and presence of metastasis. For 2018, a new edition of the AJCC staging system also takes into account biologic characteristics of the tumor including estrogen receptor (ER) and progesterone receptor (PR) status, tumor grade (the appearance of the cells under a microscope and their similarity to normal cells), and the presence of the HER-2 protein on the cancer cells.
+Stage 0 refers to intraductal carcinoma or ductal cancer in situ, in which the cancer cells have not spread beyond the boundaries of the ducts themselves.
+In Stage I breast cancer, the tumor is 2 cm or less in greatest diameter and has not spread to the lymph nodes or to other sites in the body.
+Stage II cancers are divided into two groups. Stage IIA cancer is either less than 2 cm in diameter with spread to the axillary lymph nodes, or the tumor is between 2 cm-5 cm but has not spread to the axillary lymph nodes. Stage IIB tumors are either larger than 5 cm without spread to the lymph nodes or are between 2 cm-5 cm in size and have spread to the axillary lymph nodes.
+Stage III is considered to be locally advanced cancer. Stage IIIA means the tumor is smaller than 5 cm but has spread to the axillary lymph nodes, and the axillary lymph nodes are attached to each other or to other structures; or the tumor is greater than 5 cm in diameter with spread to the axillary lymph nodes, which may be attached to each other or to other structures. Stage IIIB tumors have spread to surrounding tissues such as skin, chest wall, or to the lymph nodes inside the chest wall.
+Stage IV cancer refers to metastatic cancer, meaning it has spread to other parts of the body. With breast cancer, metastases (sites of tumor elsewhere in the body) are most often found in the bones, lungs, liver, or brain. It may also reoccur in and spread to involve areas of the chest wall, skin, and muscles, as well as more distant lymph nodes.
+
+            
+            Readers Comments 2
+        
+
+            
+            Share Your Story
+        
+T: tumor size and extent of local spread
+N: extent of tumor involvement of lymph nodes in the axillary (underarm) region. Since the nipple area is rich in lymphatic vessels, male breast cancer commonly spreads via the lymphatic channels to the axillary lymph nodes. (When the tumor has spread to the lymph nodes, doctors sometimes use the term "lymph node-positive" cancer.)
+M: presence of distant metastases (spread to other parts of the body through the bloodstream or lymphatic vessels)

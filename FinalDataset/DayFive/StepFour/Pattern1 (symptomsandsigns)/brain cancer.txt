@@ -1,0 +1,10 @@
+
+
+Not all brain tumors are alike, even if they arise from the same type of brain tissue. Tumors are assigned a grade depending on how the cells in the tumor appear microscopically. The grade also provides insight as to the cell's growth rate. NCI lists the following grades from benign to most aggressive (grade IV):
+
+
+Brain cancers are staged (stage describes the extent of the cancer) according to their cell type and grade because they seldom spread to other organs, while other cancers, such as breast or lung cancer, are staged according to so-called TMN staging which is based on the location and spread of cancer cells. In general, these cancer stages range from 0 to 4; with stage 4 indicating the cancer has spread to another organ (highest stage is 4).
+Grade I: The tissue is benign. The cells look nearly like normal brain cells, and they grow slowly.
+Grade II: The tissue is malignant. The cells look less like normal cells than do the cells in a grade I tumor.
+Grade III: The malignant tissue has cells that look very different from normal cells. The abnormal cells are actively growing and have a distinctly abnormal appearance (anaplastic).
+Grade IV: The malignant tissue has cells that look most abnormal and tend to grow quickly.

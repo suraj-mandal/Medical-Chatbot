@@ -1,0 +1,43 @@
+
+
+*Viral hemorrhagic fever facts by Charles Patrick Davis, MD, PhD
+
+
+Viral hemorrhagic fevers (VHFs) refer to a group of illnesses that are caused by several distinct families of viruses. In general, the term "viral hemorrhagic fever" is used to describe a severe multisystem syndrome (multisystem in that multiple organ systems in the body are affected). Characteristically, the overall vascular system is damaged, and the body's ability to regulate itself is impaired. These symptoms are often accompanied by hemorrhage (bleeding); however, the bleeding is itself rarely life-threatening. While some types of hemorrhagic fever viruses can cause relatively mild illnesses, many of these viruses cause severe, life-threatening disease.
+The Special Pathogens Branch (SPB) primarily works with hemorrhagic fever viruses that are classified as biosafety level four (BSL-4) pathogens. A list of these viruses appears in the SPB disease information index. The Division of Vector-Borne Infectious Diseases, also in the National Center for Infectious Diseases, works with the non-BSL-4 viruses that cause two other hemorrhagic fevers, dengue hemorrhagic fever and yellow fever.
+
+
+VHFs are caused by viruses of four distinct families: arenaviruses, filoviruses, bunyaviruses, and flaviviruses. Each of these families share a number of features:
+In rare cases, other viral and bacterial infections can cause a hemorrhagic fever; scrub typhus is a good example.
+Viral Hemorrhagic Fever(s) Center
+Bacterial Infections 101 Pictures Slideshow
+Take the Tummy Trouble Quiz
+Hepatitis C Slideshow Pictures
+Viral hemorrhagic fever (VHF) facts*
+What are viral hemorrhagic fevers?
+How are hemorrhagic fever viruses grouped?
+What carries viruses that cause viral hemorrhagic fevers?
+Where are cases of viral hemorrhagic fever found?
+How are hemorrhagic fever viruses transmitted?
+What are the signs and symptoms and signs of viral hemorrhagic fever illnesses?
+How do health care professionals treat patients with viral hemorrhagic fever?
+How can cases of viral hemorrhagic fever be prevented and controlled?
+What needs to be done to address the threat of viral hemorrhagic fevers?
+Viral hemorrhagic fevers are defined as a group of illnesses caused by different families of viruses that cause vascular damage that results in symptomatic bleeding (hemorrhage). For example, Arenaviridae cause Lassa fever (Lassa virus), Argentine hemorrhagic fever (Junin virus), and Bolivian hemorrhagic fever (Machupo virus); Bunyaviridae cause Crimean-Congo, Rift Valley, and Hantaan hemorrhagic fevers; Filoviridae cause Ebola and Marburg diseases; and finally, Flaviviridae cause yellow fever, dengue fever, Omsk hemorrhagic fever, and Kyasanur Forest disease. Readers should note that flaviviruses are not the same as filoviruses, as these two viral terms designate two different families of viruses and are easily confused; Ebola is caused by a filovirus, not a flavivirus.
+Hemorrhagic fever viruses are mainly zoonotic diseases caused by viruses that usually reside in an animal or arthropod hosts that may serve as health vectors.
+Viral hemorrhagic fevers are usually seen associated with only one particular of species and consequently are usually contained in geographically restricted areas in Liberia, Uganda, Bolivia, or other countries with such areas; however, if the virus is introduced accidentally to humans in cities, it may become widespread (for example, the recent Ebola outbreak).
+Hemorrhagic fever viruses are usually transmitted among animal or arthropod hosts; however, the viruses carried in these animal or arthropods can be transmitted to humans when humans come in contact with the urine, feces, saliva, or other bodily fluids of infected animals or arthropods, including if the animal is killed and eaten. In some instances, once the viruses infect humans, person-to-person transmission can occur when an uninfected person comes in contact with bodily fluids or (with some viruses) a bite by an arthropod vector.
+Symptoms of viral hemorrhagic fever include fatigue, fever, weakness, dizziness, and muscle aches; patients with more severe infections show bleeding under the skin, internal organs, or even from bodily orifices like the mouth, eyes, or ears. Some patients develop severe diarrhea that may also be bloody, and severely ill patients present with shock, delirium, seizures, kidney failure, and coma that often ends in death.
+Patients with viral hemorrhagic fevers usually receive only supportive therapy; there is no other established cure for viral hemorrhagic fevers. However, ribavirin (Rebetol, Copegus) medical treatment has been effective in treating some individuals with Lassa fever, and treatment with convalescent-phase plasma has been used with success in a few patients -- other experimental antiviral agents have also been tried in a few patients.
+Prevention and control of hemorrhagic fevers is difficult; except for yellow fever and Argentine hemorrhagic fever, no vaccines have been made commercially available so that prevention efforts are concentrated on avoiding contacts with the host species, vectors, or humans infected with the viruses although one recent clinical trial showed effectiveness of a vaccine against a strain of Ebola virus.
+Scientists and health researchers are addressing the threat of viral hemorrhagic fevers to humans by attempting to develop immunological, molecular, and containment methods to prevent these hemorrhagic fevers and restore health to individuals who get hemorrhagic fevers.
+
+            
+            Share Your Story
+        
+They are all RNA viruses, and all are covered, or enveloped, in a fatty (lipid) coating.
+Their survival is dependent on an animal or insect host, called the natural reservoir.
+The viruses are geographically restricted to the areas where their host species live.
+Humans are not the natural reservoir for any of these viruses. Humans are infected when they come into contact with infected hosts. However, with some viruses, after the accidental transmission from the host, humans can transmit the virus to one another.
+Human cases or outbreaks of hemorrhagic fevers caused by these viruses occur sporadically and irregularly. The occurrence of outbreaks cannot be easily predicted.
+With a few noteworthy exceptions, there is no cure or established drug treatment for VHFs.

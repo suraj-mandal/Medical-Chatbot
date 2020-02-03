@@ -1,0 +1,13 @@
+
+Anemia is a medical condition in which the red blood cell count or hemoglobin is less than normal.
+For men, anemia is typically defined as hemoglobin level of less than 13.5 gram/100 ml and in women as hemoglobin of less than 12.0 gram/100 ml.
+Anemia is caused by either a decrease in production of red blood cells or hemoglobin, or an increase in loss (usually due to bleeding) or destruction of red blood cells.
+Some patients with anemia have no symptoms. Those that do have symptoms mayfeel tired,become easily fatigued,appear pale,have a feeling of a heart racing,feel short of breath, and/orhave worsening heart problems.
+feel tired,
+become easily fatigued,
+appear pale,
+have a feeling of a heart racing,
+feel short of breath, and/or
+have worsening heart problems.
+Anemia can be detected with a simple blood test called a complete blood cell count (CBC).
+The treatment of the anemia varies greatly and very much depends on the particular cause.

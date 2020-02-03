@@ -1,0 +1,362 @@
+alcohol abuse
+keratitis
+fungal arthritis
+scarlet fever scarlatina
+dissociative identity disorder
+ingrown hair
+osteoarthritis
+bocavirus infection
+teen depression
+excessive inappropriate guilt
+rebellious behavior
+coxsackie virus
+staph infection
+dry eyes
+salivary gland cancer
+malaria
+hamstring injury
+herpangina
+nasopharyngeal cancer
+childhood obesity
+impetigo
+schistosomiasis
+hyperthyroidism
+torn meniscus
+fungal nails
+gangrene
+rheumatic fever
+breast cancerdiscomfort
+colic
+retinal detachment
+sfifth disease
+norovirus infection
+meningococcemia
+rotator cuff
+double vision
+amyloidosis
+reye syndrome
+osteopenia
+posttraumatic stress disorder
+sprained ankle
+raynauds phenomenon
+scleroderma
+tendinitis
+binge eating disorder
+anorexia nervosa
+thoracic outlet syndrome
+hematoma
+kernicterus
+migraine
+feltys syndrome
+asperger syndrome
+pericarditis
+systemic lupus
+osteoporosis
+plant thorn synovitis
+toxic shock syndrome tss
+anal cancer
+fibromyalgia
+brief psychotic disorder
+schizoaffective disorder
+bipolar disorder
+postherpetic neuralgia
+cervical cancer
+separation anxiety
+thyroid cancer
+necrotizing fasciitis
+liver disease
+occupational asthma
+septic arthritis
+rotavirus
+pandas
+orthostatic hypotension
+paraphilia
+urethral stricture
+prostate cancer
+chagas disease
+edema
+constipation
+myocarditis
+type 1 diabetes
+low potassium hypokalemia
+testicular cancer
+lung cancer
+keratosis pilaris
+rosacea
+acne
+toothache
+schizophrenia
+febrile seizures
+encopresis
+achilles tendon rupture
+urethral cancer
+lyme disease
+cyclic vomiting syndrome cvs
+chronic rhinitis
+deviated septum
+retinitis pigmentosa
+cataracts
+mucormycosis
+psoriasis
+hay fever
+jock itch
+ringworm
+pseudogout
+myasthenia gravis
+anaphylaxis
+hives
+endometriosis
+urinary tract infection
+adult adhd
+leishmaniasis
+ankylosing spondylitis
+psoriatic arthritis
+eosinophilic fasciitis
+narcissistic personality disorder
+deep vein thrombosis
+onchocerciasis
+keloid
+typhus
+pagets disease
+breast cancer
+lymphedema
+sporotrichosis
+insomnia
+pain in the muscle
+gum disease
+encephalopathy
+osteomyelitis
+cellulitis
+temporomandibular joint syndrome 
+trigeminal neuralgia
+baker cyst
+indoor allergens
+turf toe 
+mold exposure
+ovarian cancer
+kawasaki disease
+brain cancer
+yellow fever
+neuroblastoma
+ingrown toenail
+hypothyroidism
+glaucoma
+hepatitis c
+esophageal cancer
+cytomegalovirus
+recurring cytomegalovirus
+esophagitis
+cre infection
+bone cancer 
+pericoronitis
+iron overload
+gout
+coccydynia
+listeria
+microcephaly
+leukemia
+dry mouth
+seborrheic dermatitis
+scoliosis
+scabies
+melanoma
+histoplasmosis 
+hepatocellular carcinoma
+cholangiocarcinoma
+hand-foot-and-mouth syndrome
+non-hodgkins lymphomas
+burning mouth syndrome
+sepsis
+polio facts
+scalp psoriasis
+croup
+cholera
+smallpox
+dysthymia
+genital herpes
+male breast cancer
+hantavirus pulmonary syndrome
+rickets
+molluscum contagiosum facts
+hemorrhoids piles
+erythema nodosum
+cerebral palsy
+dystonia
+c-reactive protein test crp
+optic neuritis
+sleepwalking
+yaws
+astigmatism 
+herniated disc
+pseudoxanthoma elasticum
+claudication
+iritis
+takayasu disease
+vasculitis
+bone spurs
+behcets syndrome
+wegeners granulomatosis
+facial nerve problems
+inflammatory bowel disease
+mortons neuroma
+osteochondritis dissecans
+heart valve disease
+aortic stenosis
+meniere disease
+barretts esophagus
+preeclampsia high blood pressure fatigue
+achalasia
+low blood pressure
+sickle cell
+factitious disorders
+cauliflower ear
+cryptosporidiosis
+pleurisy
+icu psychosis
+atrial fibrillation
+pulmonary embolism
+porphyria
+skin:rashes
+hydronephrosis
+cardiomyopathy hypertrophic
+melas syndrome
+mitochondrial disease
+pheochromocytoma
+paroxysmal supraventricular tachycardia
+fibrocystic breast condition
+leighs syndrome
+klinefelter syndrome
+arteriovenous malformation
+peripheral vascular disease
+growth of toenails
+circulation
+heart attack
+skin
+high blood pressure
+pain
+jaundice in adults
+trouble breathing
+adenoid tonsils
+urinate
+anal fissure
+frostbite
+looking skin
+seasonal affective disorder
+degenerative disc
+attention deficit hyperactivity disorder 
+renal artery stenosis
+laryngitis
+marfan syndrome
+aortic dissection
+canavan disease
+phlebitis
+tuberculosis
+fecal incontinence
+pick disease
+cushings syndrome
+hyponatremia
+tetrahydrobiopterin deficiency
+kleine-levin syndrome
+blood in semen
+impingement syndrome
+bleeding varices
+cardiomyopathy restrictive
+cauda equina syndrome
+devics syndrome
+brain hemorrhage
+arsenic poisoning
+deafness
+polycystic ovary
+amenorrhea
+post-polio syndrome
+narcolepsy
+abdominal aortic aneurysm
+ascites
+arachnoiditis
+guillain-barre syndrome
+tourette syndrome
+rhabdomyolysis
+crohns disease
+ramsay hunt syndrome
+premenstrual dysphoric disorder
+gastritis
+complex regional pain syndrome
+myxedema coma
+turner syndrome
+carotid artery disease
+huntington disease
+whiplash
+binswangers disease
+pinworm infection
+ehlers-danlos syndrome
+carcinoid syndrome
+retinoblastoma
+farsightedness
+internal bleeding
+premenstrual syndrome
+angina symptoms
+down syndrome
+trisomy 18 edwards syndrome
+gestational diabetes
+insulin resistance
+trichinosis
+stiff-person syndrome
+mrsa infection
+hypercalcemia
+hashimotos thyroiditis
+celiac disease
+gallstones
+fabrys disease
+congenital heart disease
+guinea worm disease
+pot syndrome
+anemia
+pelvic inflammatory disease
+bladder infection
+anhrax
+gynecomastia
+congestive heart failure 
+charcot-marie-tooth-disease
+hiatal hernia
+cystinuria
+williams syndrome
+dyslexia
+irritable bowel syndrome
+loeys-dietz syndrome
+pinched nerve 
+brain aneurysm
+emphysema lung condition
+parry-romberg syndrome
+sinus headache
+trigger finger
+small pupils
+fragile x syndrome
+ovarian cysts
+chronic obstructive pulmonary disease
+alport syndrome
+syphilis 
+lactose intolerance
+shingles
+spina bifida 
+graves disease
+pernicious anemia
+vulvodynia
+typhoid fever
+gastroenteritis stomach flu
+q fever
+corneal disease
+teething
+rothmund-thomson syndrome
+kyphosis
+eustachian tube problems
+meningitis
+abscessed tooth
+otitis externa
+chiggers bites
+neutropenia
+treacher collins syndrome
+trichomoniasis
+stroke symptoms
+neuropathic pain
+primary sclerosing cholangitis
+hemophilia
